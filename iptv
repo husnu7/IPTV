@@ -1365,21 +1365,21 @@ http://iptvtree.net:8080/766a3d10/7781c6505e/1065
 http://iptvtree.net:8080/766a3d10/7781c6505e/76882
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: Zing HD
 http://iptvtree.net:8080/766a3d10/7781c6505e/173160
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Main Event FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Main Event FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683736
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Main Event HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Main Event HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683737
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Main Event VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Main Event VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683738
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Premier League FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Premier League FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683787
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Premier League HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Premier League HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683791
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Premier League VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Premier League VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683793
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Football FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Football FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683759
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Football HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Football HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683762
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Football VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683761
@@ -1401,23 +1401,23 @@ http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683768
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683769
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Racing VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683771
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports F1 FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports F1 FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683751
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports F1 HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports F1 HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683752
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports F1 VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports F1 VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683753
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Action FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Action FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/674009
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Action HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/674010
 #EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",Sky Sports Action UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/674011
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Arena FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports Arena FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/682023
 #EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",Sky Sports Arena HD UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/7926
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports News FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Sky Sports News FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683756
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports News HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683757
@@ -1431,29 +1431,29 @@ http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683755
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683824
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports Box Office FHD [Match Time] UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/679092
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUTV FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",MUTV FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684682
 #EXTINF:0 tvg-id="ext" group-title="Channels",MUTV HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684683
 #EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 1 HD UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/682019
-#EXTINF:0 tvg-id="ext" group-title="Channels",Liverpool FC VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Liverpool FC VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/656978
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 1 FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 1 FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683851
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 1 HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 1 HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/677901
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 1 VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 1 VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683852
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 2 FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 2 FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683854
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 2 HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 2 HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/677902
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 2 VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 2 VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683855
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 3 FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 3 FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683856
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 3 HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport 3 HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684435
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport 3 VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/677903
@@ -1471,17 +1471,17 @@ http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683831
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683832
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport ESPN FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684436
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport ESPN HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",BT Sport ESPN HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683993
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT Sport ESPN VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/683994
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 1 FHD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Eurosport 1 FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684075
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 1 HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",Eurosport 1 HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684076
 #EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport 2 FHD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684077
-#EXTINF:0 tvg-id="ext" group-title="Channels",EuroSport 2 HD VIP UK
+#EXTINF:0 tvg-id="ext" group-title="Uk Sports",EuroSport 2 HD VIP UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/684078
 #EXTINF:0 tvg-id="ext" group-title="Channels",Box Nation HD UK
 http://iptv.rent:8080/patrykdlugosch1/dggh56VVcsd/671396
