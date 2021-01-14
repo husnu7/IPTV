@@ -1,464 +1,100 @@
 #EXTM3U
-#EXTINF:0 tvg-id="VirginMediaTwo.ie" group-title="Channels",|UK| 3E
-http://m3u.iptvott.live:8080/07654321/07654321/174308
-#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",|UK| 4MUSIC
-http://m3u.iptvott.live:8080/07654321/07654321/174309
-#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",|UK| 4SEVEN HD
-http://m3u.iptvott.live:8080/07654321/07654321/174310
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| 5 SPIKE
-http://m3u.iptvott.live:8080/07654321/07654321/174311
-#EXTINF:0 tvg-id="5star.uk" group-title="Channels",|UK| 5 STAR
-http://m3u.iptvott.live:8080/07654321/07654321/174312
-#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",|UK| ALIBI FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174313
-#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",|UK| AMC HD
-http://m3u.iptvott.live:8080/07654321/07654321/174314
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",|UK| ANIMAL PLANET FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174315
-#EXTINF:0 tvg-id="BBCAlba.uk" group-title="Channels",|UK| BBC ALBA
-http://m3u.iptvott.live:8080/07654321/07654321/174316
-#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",|UK| BBC FOUR FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174317
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC NEWS FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174318
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE CAMBRIDGE
-http://m3u.iptvott.live:8080/07654321/07654321/174319
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE EAST
-http://m3u.iptvott.live:8080/07654321/07654321/174320
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE EAST MIDLANDS
-http://m3u.iptvott.live:8080/07654321/07654321/174321
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE EAST YORKSHIRE
-http://m3u.iptvott.live:8080/07654321/07654321/174322
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",|UK| BBC ONE FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174323
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| VIRGIN MEDIA SPORT IRELAND FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174324
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE NORTH EAST
-http://m3u.iptvott.live:8080/07654321/07654321/174325
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE NORTH WEST
-http://m3u.iptvott.live:8080/07654321/07654321/174326
-#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",|UK| BBC ONE NORTHERN IRELAND
-http://m3u.iptvott.live:8080/07654321/07654321/174327
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE OXFORD
-http://m3u.iptvott.live:8080/07654321/07654321/174328
-#EXTINF:0 tvg-id="BBC1Scotland.uk" group-title="Channels",|UK| BBC ONE SCOTLAND FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174329
-#EXTINF:0 tvg-id="BBC1South.uk" group-title="Channels",|UK| BBC ONE SOUTH
-http://m3u.iptvott.live:8080/07654321/07654321/174330
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE SOUTH EAST
-http://m3u.iptvott.live:8080/07654321/07654321/174331
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE SOUTH WEST
-http://m3u.iptvott.live:8080/07654321/07654321/174332
-#EXTINF:0 tvg-id="BBC1Wales.uk" group-title="Channels",|UK| BBC ONE WALES HD
-http://m3u.iptvott.live:8080/07654321/07654321/174333
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC ONE WEST MIDLANDS
-http://m3u.iptvott.live:8080/07654321/07654321/174334
-#EXTINF:0 tvg-id="BBC1Yorkshire.uk" group-title="Channels",|UK| BBC ONE YORKS
-http://m3u.iptvott.live:8080/07654321/07654321/174335
-#EXTINF:0 tvg-id="BBCParliament.uk" group-title="Channels",|UK| BBC PARLIAMENT
-http://m3u.iptvott.live:8080/07654321/07654321/174336
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC TWO ENGLAND HD
-http://m3u.iptvott.live:8080/07654321/07654321/174337
-#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",|UK| BBC TWO FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174338
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC TWO NOTHERN IRELAND
-http://m3u.iptvott.live:8080/07654321/07654321/174339
-#EXTINF:0 tvg-id="BBC2Scotland.uk" group-title="Channels",|UK| BBC TWO SCOTLAND
-http://m3u.iptvott.live:8080/07654321/07654321/174340
-#EXTINF:0 tvg-id="BBC2Wales.uk" group-title="Channels",|UK| BBC TWO WALES
-http://m3u.iptvott.live:8080/07654321/07654321/174341
-#EXTINF:0 tvg-id="BET.uk" group-title="Channels",|UK| BET
-http://m3u.iptvott.live:8080/07654321/07654321/174342
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",|UK| BLAZE
-http://m3u.iptvott.live:8080/07654321/07654321/174343
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",|UK| BOXNATION FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174344
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",|UK| BT SPORT 1 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174345
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",|UK| BT SPORT 2 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174346
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",|UK| BT SPORT 3 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174347
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT SPORT EXTRA 1
-http://m3u.iptvott.live:8080/07654321/07654321/174348
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT SPORT EXTRA 2
-http://m3u.iptvott.live:8080/07654321/07654321/174349
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT SPORT EXTRA 3 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174350
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT SPORT EXTRA 4
-http://m3u.iptvott.live:8080/07654321/07654321/174351
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT SPORT EXTRA 5
-http://m3u.iptvott.live:8080/07654321/07654321/174352
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",|UK| BT SPORTS 1 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174353
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",|UK| BT SPORTS 2 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174354
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",|UK| BT SPORTS 3 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174355
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",|UK| BT SPORTS ESPN FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174356
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",|UK| CARTOON NETWORK HD
-http://m3u.iptvott.live:8080/07654321/07654321/174357
-#EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",|UK| CBBC HD
-http://m3u.iptvott.live:8080/07654321/07654321/174358
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",|UK| CBEEBIES HD
-http://m3u.iptvott.live:8080/07654321/07654321/174359
-#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",|UK| CBS ACTION
-http://m3u.iptvott.live:8080/07654321/07654321/174360
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",|UK| CBS DRAMA
-http://m3u.iptvott.live:8080/07654321/07654321/174361
-#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",|UK| CBS REALITY
-http://m3u.iptvott.live:8080/07654321/07654321/174362
-#EXTINF:0 tvg-id="Challenge.uk" group-title="Channels",|UK| CHALLENGE
-http://m3u.iptvott.live:8080/07654321/07654321/174363
-#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",|UK| CHANNEL 4 +1
-http://m3u.iptvott.live:8080/07654321/07654321/174364
-#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",|UK| CHANNEL 4 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174365
-#EXTINF:0 tvg-id="Channel5plus1.uk" group-title="Channels",|UK| CHANNEL 5 +1
-http://m3u.iptvott.live:8080/07654321/07654321/174366
-#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",|UK| CHANNEL 5 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174367
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| CNN FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174368
-#EXTINF:0 tvg-id="ComedyCentralplus1.uk" group-title="Channels",|UK| COMEDY CENTRAL +1
-http://m3u.iptvott.live:8080/07654321/07654321/174369
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",|UK| COMEDY CENTRAL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174370
-#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",|UK| COMEDY XTRA
-http://m3u.iptvott.live:8080/07654321/07654321/174371
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",|UK| CRIME & INVESTIGATION FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174372
-#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",|UK| DAVE HD
-http://m3u.iptvott.live:8080/07654321/07654321/174373
-#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="Channels",|UK| DAVE JA VU
-http://m3u.iptvott.live:8080/07654321/07654321/174374
-#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",|UK| DISCOVERY FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174375
-#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",|UK| DISCOVERY HISTORY
-http://m3u.iptvott.live:8080/07654321/07654321/174376
-#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",|UK| DISCOVERY SCIENCE
-http://m3u.iptvott.live:8080/07654321/07654321/174377
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",|UK| DISCOVERY TURBO
-http://m3u.iptvott.live:8080/07654321/07654321/174378
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",|UK| DISNEY JUNIOR FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174379
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Channels",|UK| DISNEY XD
-http://m3u.iptvott.live:8080/07654321/07654321/174380
-#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",|UK| DRAMA
-http://m3u.iptvott.live:8080/07654321/07654321/174381
-#EXTINF:0 tvg-id="E4.uk" group-title="Channels",|UK| E4 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174382
-#EXTINF:0 tvg-id="Eden.uk" group-title="Channels",|UK| EDEN FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174383
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="Channels",|UK| EIR SPORT 1
-http://m3u.iptvott.live:8080/07654321/07654321/174384
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",|UK| EIR SPORT 2
-http://m3u.iptvott.live:8080/07654321/07654321/174385
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="Channels",|UK| EIR SPORT 2 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174386
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",|UK| EUROSPORT 1 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174387
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",|UK| EUROSPORT 2 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174388
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Channels",|UK| FOOD NETWORK
-http://m3u.iptvott.live:8080/07654321/07654321/174389
-#EXTINF:0 tvg-id="FX.uk" group-title="Channels",|UK| FOX FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174390
-#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",|UK| GOLD
-http://m3u.iptvott.live:8080/07654321/07654321/174391
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| VIRGIN MEDIA ONE FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174392
-#EXTINF:0 tvg-id="H2.uk" group-title="Channels",|UK| H2 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174393
-#EXTINF:0 tvg-id="History.uk" group-title="Channels",|UK| HISTORY FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174394
-#EXTINF:0 tvg-id="Home.uk" group-title="Channels",|UK| HOME
-http://m3u.iptvott.live:8080/07654321/07654321/174395
-#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",|UK| HOME & HEALTH
-http://m3u.iptvott.live:8080/07654321/07654321/174396
-#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="Channels",|UK| HORROR CHANNEL
-http://m3u.iptvott.live:8080/07654321/07654321/174397
-#EXTINF:0 tvg-id="Investigation.uk" group-title="Channels",|UK| ID
-http://m3u.iptvott.live:8080/07654321/07654321/174398
-#EXTINF:0 tvg-id="ITV2plus1.uk" group-title="Channels",|UK| ITV 2 +1
-http://m3u.iptvott.live:8080/07654321/07654321/174399
-#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",|UK| ITV BE FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174400
-#EXTINF:0 tvg-id="ITVEncore.uk" group-title="Channels",|UK| ITV ENCORE
-http://m3u.iptvott.live:8080/07654321/07654321/174401
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",|UK| ITV1 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174402
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| ITV2
-http://m3u.iptvott.live:8080/07654321/07654321/174403
-#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",|UK| ITV3 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174404
-#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",|UK| ITV4 FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174405
-#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="Channels",|UK| LFC TV FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174406
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",|UK| LIFETIME FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174407
-#EXTINF:0 tvg-id="More4.uk" group-title="Channels",|UK| MORE 4
-http://m3u.iptvott.live:8080/07654321/07654321/174408
-#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",|UK| MTV BASE
-http://m3u.iptvott.live:8080/07654321/07654321/174409
-#EXTINF:0 tvg-id="MTVClassic.uk" group-title="Channels",|UK| MTV CLASSIC
-http://m3u.iptvott.live:8080/07654321/07654321/174410
-#EXTINF:0 tvg-id="MTVDance.uk" group-title="Channels",|UK| MTV DANCE
-http://m3u.iptvott.live:8080/07654321/07654321/174411
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",|UK| MTV HITS
-http://m3u.iptvott.live:8080/07654321/07654321/174412
-#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="Channels",|UK| MTV LIVE FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174413
-#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",|UK| MTV MUSIC
-http://m3u.iptvott.live:8080/07654321/07654321/174414
-#EXTINF:0 tvg-id="MTVMusicPlus1.uk" group-title="Channels",|UK| MTV MUSIC +1
-http://m3u.iptvott.live:8080/07654321/07654321/174415
-#EXTINF:0 tvg-id="MTVRocks.uk" group-title="Channels",|UK| MTV ROCKS
-http://m3u.iptvott.live:8080/07654321/07654321/174416
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",|UK| MUTV FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174417
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",|UK| NAT GEO WILD FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174418
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",|UK| NATIONAL GEOGRAPHIC FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174419
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",|UK| NICK FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174420
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",|UK| NICK FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174421
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",|UK| NICK JR
-http://m3u.iptvott.live:8080/07654321/07654321/174422
-#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="Channels",|UK| NICK JR TOO
-http://m3u.iptvott.live:8080/07654321/07654321/174423
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",|UK| NICKELODEON
-http://m3u.iptvott.live:8080/07654321/07654321/174424
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",|UK| NICKTOONS
-http://m3u.iptvott.live:8080/07654321/07654321/174425
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| PICK HD
-http://m3u.iptvott.live:8080/07654321/07654321/174426
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Channels",|UK| PREMIER SPORTS FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174427
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",|UK| RACING UK
-http://m3u.iptvott.live:8080/07654321/07654321/174428
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| RT HD UK
-http://m3u.iptvott.live:8080/07654321/07654321/174429
-#EXTINF:0 tvg-id="SkyArts1.uk" group-title="Channels",|UK| SKY ARTS
-http://m3u.iptvott.live:8080/07654321/07654321/174430
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",|UK| SKY ATLANTIC HD
-http://m3u.iptvott.live:8080/07654321/07654321/174431
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",|UK| SKY CINEMA ACTION FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174432
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| SKY CINEMA ANIMATION HD
-http://m3u.iptvott.live:8080/07654321/07654321/174433
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BBC NEWS FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174434
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",|UK| SKY CINEMA COMEDY FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174435
-#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Channels",|UK| SKY CINEMA CRIME & THRILLER
-http://m3u.iptvott.live:8080/07654321/07654321/174436
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",|UK| SKY CINEMA DISNEY
-http://m3u.iptvott.live:8080/07654321/07654321/174437
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Channels",|UK| SKY CINEMA DRAMA & ROMANCE
-http://m3u.iptvott.live:8080/07654321/07654321/174438
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",|UK| SKY CINEMA GREATS FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174439
-#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",|UK| SKY CINEMA HITS FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174440
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",|UK| SKY CINEMA PREMIERE FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174441
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Channels",|UK| SKY CINEMA SELECT FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174442
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| SKY CINEMA THRILLER FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174443
-#EXTINF:0 tvg-id="SkyLiving.uk" group-title="Channels",|UK| SKY LIVING FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174444
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",|UK| SKY NEWS FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174445
-#EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",|UK| SKY ONE HD
-http://m3u.iptvott.live:8080/07654321/07654321/174446
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",|UK| SKY SPORTS ACTION FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174447
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",|UK| SKY SPORTS ARENA
-http://m3u.iptvott.live:8080/07654321/07654321/174448
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| SKY SPORTS BOX OFFICE FULL HD ( ONLY ON EVENTS )
-http://m3u.iptvott.live:8080/07654321/07654321/174449
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",|UK| SKY SPORTS CRICKET FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174450
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Channels",|UK| SKY SPORTS F1 HD
-http://m3u.iptvott.live:8080/07654321/07654321/174451
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",|UK| SKY SPORTS FOOTBALL FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174452
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",|UK| SKY SPORTS GOLF HD
-http://m3u.iptvott.live:8080/07654321/07654321/174453
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",|UK| SKY SPORTS MAIN EVENT FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174454
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",|UK| SKY SPORTS MIX FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174455
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",|UK| SKY SPORTS NEWS FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174456
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",|UK| SKY SPORTS PREMIER LEAGUE FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174457
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Channels",|UK| SONY CHANNEL
-http://m3u.iptvott.live:8080/07654321/07654321/174458
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| SONY MAX HD
-http://m3u.iptvott.live:8080/07654321/07654321/174459
-#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Channels",|UK| SONY MOVIE CHANNEL
-http://m3u.iptvott.live:8080/07654321/07654321/174460
-#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Channels",|UK| SONY MOVIES
-http://m3u.iptvott.live:8080/07654321/07654321/174461
-#EXTINF:0 tvg-id="STV.uk" group-title="Channels",|UK| STV FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174462
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",|UK| SYFY HD
-http://m3u.iptvott.live:8080/07654321/07654321/174463
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",|UK| TCM FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174464
-#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",|UK| TLC FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174465
-#EXTINF:0 tvg-id="TravelChannel.uk" group-title="Channels",|UK| TRAVEL CHANNEL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174466
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| ARIRANG TV FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174467
-#EXTINF:0 tvg-id="TrueMovies.uk" group-title="Channels",|UK| TRUE MOVIES
-http://m3u.iptvott.live:8080/07654321/07654321/174468
-#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="Channels",|UK| TV3 HD
-http://m3u.iptvott.live:8080/07654321/07654321/174469
-#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",|UK| UNIVERSAL FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174470
-#EXTINF:0 tvg-id="UTV.uk" group-title="Channels",|UK| UTV FULL HD
-http://m3u.iptvott.live:8080/07654321/07654321/174471
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK | BBC ONE HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1279
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC News HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1277
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | BBC TWO HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1278
-#EXTINF:0 tvg-id="RTE1.ie" group-title="Channels",UK | RTE 1
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1280
-#EXTINF:0 tvg-id="RTE2.ie" group-title="Channels",UK | RTE 2
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1281
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV1
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1259
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV2
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1258
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITV3
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1257
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | ITVBe
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1256
-#EXTINF:0 tvg-id="Eden.uk" group-title="Channels",UK | Eden
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1216
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | TV3 Ireland
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1217
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | TG4 Ireland
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1218
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | TLC Ireland
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1219
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Zing
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1220
-#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK | Really
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1221
-#EXTINF:0 tvg-id="Quest.uk" group-title="Channels",UK | Quest
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1222
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Pick
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1223
-#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK | More4
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1224
-#EXTINF:0 tvg-id="Home.uk" group-title="Channels",UK | Home
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1225
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Colors
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1226
-#EXTINF:0 tvg-id="Challenge.uk" group-title="Channels",UK | Challenge
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1227
-#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",UK | 4seven
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1228
-#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",UK | 4Music
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1229
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",UK | Cartoon Network
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1230
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK | Boomerang
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1231
-#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",UK | Yesterday
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1232
-#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",UK | VH1
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1233
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | truTV
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | True Movies
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1235
-#EXTINF:0 tvg-id="TrueEntertainment.uk" group-title="Channels",UK | True Entertainment
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1236
-#EXTINF:0 tvg-id="SonyCrimeChannel2.uk" group-title="Channels",UK | True Crime
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1237
-#EXTINF:0 tvg-id="TravelChannel.uk" group-title="Channels",UK | Travel Channel
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1238
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | TCM HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1239
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK | SYFY HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1240
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Sony Movies
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1241
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",UK | Nicktoons
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1242
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Channels",UK | Nickelodeon
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1243
-#EXTINF:0 tvg-id="Euronews.nws" group-title="Channels",UK | Euronews
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1244
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK | Nick Jr
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1245
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Nat Geo Wild
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1246
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Channels",UK | National Geographic
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1247
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | PDC DARTS 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74882
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | PDC DARTS 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74883
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eir Sport 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2107
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eir Sport 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/1840
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eir Sport 1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/1839
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 2 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2093
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2092
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2091
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2090
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Freesports HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2112
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Premier Sports 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2170
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Premier Sports 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2172
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Racing UK HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2105
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Racing UK FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2106
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK | Sky Sports Mix FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46192
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK | Sky Sports Mix HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2087
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK | Sky Sports Action FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46198
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK | Sky Sports Arena FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2083
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK | Sky Sports Arena HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2082
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK | Sky Sports Football FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2085
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK | Sky Sports Football HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2084
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK | Sky Sports Main Event FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2075
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK | Sky Sports Main Event HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46193
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK | Sky Sports News FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2089
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK | Sky Sports News HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2088
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK | Sky Sports Premier League FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2081
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK | Sky Sports Premier League HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2080
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Sky Sports Racing HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/114112
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Sky Sports Racing FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/114113
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK | Sky Sports F1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46196
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK | Sky Sports F1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74881
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY SPORTS GOLF FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77374
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY SPORTS GOLF HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77373
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK | Sky Sports Cricket HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/106736
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK | Sky Sports Cricket FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/106737
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK | BT Sport ESPN FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/71301
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK | BT Sport ESPN HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/71300
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK | BT Sport 1 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2095
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK | BT Sport 2 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2097
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK | BT Sport 3 FHD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2099
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK | BT Sport 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2094
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK | BT Sport 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2096
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK | BT Sport 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2098
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",UK | BoxNation HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2111
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",UK | Boxnation SD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46188
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | LFC TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109209
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Chelsea TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109211
 #EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK | MUTV
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1248
-#EXTINF:0 tvg-id="MTVRocks.uk" group-title="Channels",UK | MTV ROCKS
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1249
-#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",UK | MTV MUSIC
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1250
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK | MTV HITS
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1251
-#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK | MTV HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1252
-#EXTINF:0 tvg-id="MTVDance.uk" group-title="Channels",UK | MTV DANCE
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1253
-#EXTINF:0 tvg-id="MTVClassic.uk" group-title="Channels",UK | MTV Classic
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1254
-#EXTINF:0 tvg-id="MTVBase.uk" group-title="Channels",UK | MTV BASE
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1255
-#EXTINF:0 tvg-id="GoodFood.uk" group-title="Channels",UK | Good Food
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1260
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Channels",UK | Food Network
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1261
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | E! Entertaiment
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1262
-#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK | Channel 4 HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1263
-#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK | Channel 5 HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1264
-#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK | CBS Reality
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1265
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK | CBS Drama
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1266
-#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",UK | CBS Action
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1267
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | CBBC HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1268
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK | Baby TV
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1269
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK | Animal Planet HD
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1270
-#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK | Alibi
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1271
-#EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK | 5STAR
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1272
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | 5Spike
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1273
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | 5USA
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1274
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",UK | Racing UK
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1275
-#EXTINF:0 tvg-id="MotorsTV.uk" group-title="Channels",UK | Motors TV
-http://nightfight.xyz:25461/kMxNxqp39pministra/Vo5144viAGministra/1276
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109210
 #EXTINF:0 tvg-id="ext" group-title="Channels",Rok TV UK
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7827
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sky Witness UK
