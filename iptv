@@ -1,205 +1,190 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | PDC DARTS 1
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74882
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | PDC DARTS 2
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74883
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eir Sport 1 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2107
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eir Sport 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/1840
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Eir Sport 1 FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/1839
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 2 FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2093
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2092
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 1 FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2091
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Euro Sport 1 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2090
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Freesports HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2112
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Premier Sports 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2170
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Premier Sports 1 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2172
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Racing UK HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2105
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Racing UK FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2106
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK | Sky Sports Mix FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46192
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK | Sky Sports Mix HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2087
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK | Sky Sports Action FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46198
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK | Sky Sports Arena FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2083
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK | Sky Sports Arena HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2082
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK | Sky Sports Football FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2085
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK | Sky Sports Football HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2084
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK | Sky Sports Main Event FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2075
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK | Sky Sports Main Event HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46193
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK | Sky Sports News FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2089
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK | Sky Sports News HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2088
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK | Sky Sports Premier League FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2081
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK | Sky Sports Premier League HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2080
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Sky Sports Racing HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/114112
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Sky Sports Racing FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/114113
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK | Sky Sports F1 FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46196
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK | Sky Sports F1 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/74881
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY SPORTS GOLF FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77374
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | SKY SPORTS GOLF HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/77373
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK | Sky Sports Cricket HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/106736
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK | Sky Sports Cricket FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/106737
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK | BT Sport ESPN FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/71301
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK | BT Sport ESPN HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/71300
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK | BT Sport 1 FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2095
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK | BT Sport 2 FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2097
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK | BT Sport 3 FHD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2099
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK | BT Sport 1 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2094
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK | BT Sport 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2096
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK | BT Sport 3 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2098
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",UK | BoxNation HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/2111
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",UK | Boxnation SD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/46188
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | LFC TV
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109209
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK | Chelsea TV HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109211
-#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",UK | MUTV
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/109210
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rok TV UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7827
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Witness UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7912
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",Sky Sports Arena HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7926
-#EXTINF:0 tvg-id="RTEjr.uk" group-title="Channels",RTE Jr UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9501
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 80s UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9509
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9511
-#EXTINF:0 tvg-id="S4C.uk" group-title="Channels",S4C UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9512
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9515
-#EXTINF:0 tvg-id="E.uk" group-title="Channels",E! UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9516
-#EXTINF:0 tvg-id="ext" group-title="Channels",Travel Channel HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9517
-#EXTINF:0 tvg-id="HorseAndCountry.uk" group-title="Channels",Horse & Country UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9525
-#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Channels",Sony Movies UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9528
-#EXTINF:0 tvg-id="ext" group-title="Channels",ABC News UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9535
-#EXTINF:0 tvg-id="Euronews.nws" group-title="Channels",Euronews UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9545
-#EXTINF:0 tvg-id="BBCParliament.uk" group-title="Channels",BBC Parliament UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9546
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Entertainment UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9548
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Two [Scotland] UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9551
-#EXTINF:0 tvg-id="Challenge.uk" group-title="Channels",Challenge UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9556
-#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Channels",Capital TV UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11459
-#EXTINF:0 tvg-id="ext" group-title="Channels",5 Star +1 UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11461
-#EXTINF:0 tvg-id="ext" group-title="Channels",Viceland HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13219
-#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",Alibi UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15693
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema Select FHD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15711
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Channels",Sky Cinema Sci-Fi & Horror HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15712
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Channels",Sky Cinema Disney HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15717
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema Action HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15720
-#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 2 +1 UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15730
-#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 1 HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15734
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fine Living UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15745
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Network UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15747
-#EXTINF:0 tvg-id="HomeandHealthplus1.uk" group-title="Channels",Discovery Home & Health +1 UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15761
-#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="Channels",Dave ja vu UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15764
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",Crime & Investigation HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15766
-#EXTINF:0 tvg-id="ext" group-title="Channels",Box Nation VIP UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15783
-#EXTINF:0 tvg-id="BoxHits.uk" group-title="Channels",Box Hits UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15785
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Jr HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15806
-#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Channels",National Geographic Wild HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15810
-#EXTINF:0 tvg-id="More4Plus1.uk" group-title="Channels",More4 +1 UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15821
-#EXTINF:0 tvg-id="Magic.uk" group-title="Channels",Magic UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15824
-#EXTINF:0 tvg-id="Kiss.uk" group-title="Channels",Kiss UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15826
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kerrang TV UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15827
-#EXTINF:0 tvg-id="Investigationplus1.uk" group-title="Channels",ID +1 UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15834
-#EXTINF:0 tvg-id="ext" group-title="Channels",Home&Health +1 UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15835
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 90s UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15845
-#EXTINF:0 tvg-id="QuestRed.uk" group-title="Channels",Quest Red UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15847
-#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="Channels",Comedy Central Extra UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15855
-#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Extra UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15856
-#EXTINF:0 tvg-id="YesterdayPlus1.uk" group-title="Channels",Yesterday +1 UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15859
-#EXTINF:0 tvg-id="UTV.uk" group-title="Channels",UTV UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15866
-#EXTINF:0 tvg-id="TheBox.uk" group-title="Channels",The Box UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15880
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",Syfy HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15886
-#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Channels",Sony Sab UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15895
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sky ONE HD UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/15902
-#EXTINF:0 tvg-id="ext" group-title="Channels",Colors TV UK
-http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16881
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT 1 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56139
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56140
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ATV HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56144
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ATV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56145
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KANAL D HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56150
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KANAL D HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56151
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | STAR TV HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56146
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | STAR TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56147
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SHOW TV HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56148
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SHOW TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56149
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV 8 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56154
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV 8 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56155
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FOX TV HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56152
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FOX TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56153
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A HABER HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56233
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A HABER
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/86086
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A NEWS HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56235
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A NEWS HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56234
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A PARA HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56236
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A PARA HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56237
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ADANA TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56333
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A2 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56159
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | A2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56160
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | 360 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56173
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ATV AVRUPA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56168
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEYAZ TV HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56161
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BEYAZ TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56162
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | Bloomberg HT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56247
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | CNN TURK HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56238
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | EURO STAR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56169
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HABER GLOBAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/55194
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SEMERKAND HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/55187
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT 4K
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56142
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT 2 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56143
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | EURO D
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56171
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HALK TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56245
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | BENGUTURK
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/103921
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV 8.5 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56156
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV 8.5 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56157
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV 8.5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56158
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KANAL 7 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56163
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KANAL 7 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56164
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TEVE 2 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56165
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TEVE 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56166
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SHOW MAX
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56167
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | SHOW TURK
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56170
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV 8 INT
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56172
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV NET HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56174
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV 4 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56175
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | CNN TURK HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56239
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | GLOBAL HABER HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56240
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HABER TURK HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56241
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | HABER TURK HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56242
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TELE 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56243
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV100 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56244
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ULUSAL KANAL
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56246
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KANAL 24 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56248
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KRT TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56249
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | AKIT TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/118578
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NTV HABER HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56250
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | NTV HABER HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56251
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TGRT HABER HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56254
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT HABER HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56255
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT HABER HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56256
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ULKETV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56257
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ANTALYA Kanal V
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56342
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TV5
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56308
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | GAZIANTEP GRT TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56331
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DIYANET TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56298
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | GAZIANTEP OLAY TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56332
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | Sivas VIZYON 58 TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56335
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ADIYAMAN MERCAN TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56336
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | Trabzon Haber 61 TV HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56359
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | AV TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56373
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | sanliurfa Kanal URFA
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56378
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ANADOLU DERNEK TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56380
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | DOST TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56300
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | ARTI TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/87098
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | KON TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/91814
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | FM TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56301
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT WORLD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/58877
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR | TRT AVAZ
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/58878
+
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",***** TR | Sports *****
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/0
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | BEIN SPORTS 1 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56847
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | BEIN SPORTS 2 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56848
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | BEIN SPORTS 3 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56849
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | BEIN SPORTS 4 HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56850
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | BEIN SPORTS MAX 1
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101687
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | BEIN SPORTS MAX 2
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101688
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | BEIN SPORTS HABER HD
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56857
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | SARAN SPORTS
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/101689
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | SPORTS TV
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56859
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | A SPOR
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56867
+#EXTINF:0 tvg-id="ext" group-title="TR | Sports",TR | TRT SPOR 2 HD+
+http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/56868
