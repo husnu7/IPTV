@@ -1,2345 +1,540 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| BBC2
-http://rv.imax.re:80/0279710397/1396542894/80344
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| BBC3/CBBC
-http://rv.imax.re:80/0279710397/1396542894/80343
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| BBC4/CBEEBIES
-http://rv.imax.re:80/0279710397/1396542894/80342
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| BBC PARLIAMENT
-http://rv.imax.re:80/0279710397/1396542894/80341
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| ITV 1
-http://rv.imax.re:80/0279710397/1396542894/80340
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| ITV 2
-http://rv.imax.re:80/0279710397/1396542894/80339
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| ITV 3
-http://rv.imax.re:80/0279710397/1396542894/80338
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| ITV 4
-http://rv.imax.re:80/0279710397/1396542894/80337
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| ITV BE
-http://rv.imax.re:80/0279710397/1396542894/80336
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK|SD| CITV
-http://rv.imax.re:80/0279710397/1396542894/80333
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |FHD|",##### |UK| NEWS |FHD| #####
-http://rv.imax.re:80/0279710397/1396542894/80331
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |FHD|",|UK|FHD| BBC NEWS
-http://rv.imax.re:80/0279710397/1396542894/80330
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |FHD|",|UK|FHD| BBC WORLD NEWS
-http://rv.imax.re:80/0279710397/1396542894/80329
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |FHD|",|UK|FHD| BLOOMBERG
-http://rv.imax.re:80/0279710397/1396542894/80328
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |FHD|",|UK|FHD| CNN
-http://rv.imax.re:80/0279710397/1396542894/80327
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |FHD|",|UK|FHD| SKY NEWS
-http://rv.imax.re:80/0279710397/1396542894/80321
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",##### |UK| NEWS |SD| #####
-http://rv.imax.re:80/0279710397/1396542894/80320
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| BBC NEWS
-http://rv.imax.re:80/0279710397/1396542894/80319
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| BLOOMBERG
-http://rv.imax.re:80/0279710397/1396542894/80317
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| CNBC
-http://rv.imax.re:80/0279710397/1396542894/80316
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| CNN
-http://rv.imax.re:80/0279710397/1396542894/80315
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| EURO NEWS
-http://rv.imax.re:80/0279710397/1396542894/80314
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| FOX NEWS
-http://rv.imax.re:80/0279710397/1396542894/80313
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| FRANCE 24 EN
-http://rv.imax.re:80/0279710397/1396542894/80312
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|HD| AL JAZEERA EN
-http://rv.imax.re:80/0279710397/1396542894/80311
-#EXTINF:0 tvg-id="ext" group-title="|UK| NEWS |SD|",|UK|SD| SKY NEWS
-http://rv.imax.re:80/0279710397/1396542894/80309
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| COOKING",##### |UK| COOKING #####
-http://rv.imax.re:80/0279710397/1396542894/80308
-#EXTINF:0 tvg-id="ext" group-title="|UK| COOKING",|UK|SD| HOME
-http://rv.imax.re:80/0279710397/1396542894/80306
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",##### |UK| LOCAL #####
-http://rv.imax.re:80/0279710397/1396542894/80305
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ALBA
-http://rv.imax.re:80/0279710397/1396542894/80304
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC SCOTLAND
-http://rv.imax.re:80/0279710397/1396542894/80303
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE CAMBRIDGE
-http://rv.imax.re:80/0279710397/1396542894/80302
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE CHANNEL ISLANDS
-http://rv.imax.re:80/0279710397/1396542894/80301
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE EAST
-http://rv.imax.re:80/0279710397/1396542894/80300
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE EAST MIDLANDS
-http://rv.imax.re:80/0279710397/1396542894/80299
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE LONDON
-http://rv.imax.re:80/0279710397/1396542894/80298
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE NORTH EAST & CUMBRIA
-http://rv.imax.re:80/0279710397/1396542894/80297
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE NORTH WEST
-http://rv.imax.re:80/0279710397/1396542894/80296
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE NORTHEN ISLAND
-http://rv.imax.re:80/0279710397/1396542894/80295
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE OXFORD
-http://rv.imax.re:80/0279710397/1396542894/80294
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE SCOTLAND
-http://rv.imax.re:80/0279710397/1396542894/80293
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE SOUTH
-http://rv.imax.re:80/0279710397/1396542894/80292
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC One South East
-http://rv.imax.re:80/0279710397/1396542894/80291
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE SOUTH WEST
-http://rv.imax.re:80/0279710397/1396542894/80290
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE WALES
-http://rv.imax.re:80/0279710397/1396542894/80289
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE WEST
-http://rv.imax.re:80/0279710397/1396542894/80288
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE WEST MIDLANDS
-http://rv.imax.re:80/0279710397/1396542894/80287
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE YORK
-http://rv.imax.re:80/0279710397/1396542894/80286
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC ONE YORKSHIRE & LINCOLNSHIRE
-http://rv.imax.re:80/0279710397/1396542894/80285
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC TWO ENGLAND
-http://rv.imax.re:80/0279710397/1396542894/80284
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC TWO NORTHEN IRELAND
-http://rv.imax.re:80/0279710397/1396542894/80283
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| BBC TWO WALES
-http://rv.imax.re:80/0279710397/1396542894/80282
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| CHANNEL 4 MIDLANDS
-http://rv.imax.re:80/0279710397/1396542894/80281
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| CHANNEL 4 NORTH
-http://rv.imax.re:80/0279710397/1396542894/80280
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| CHANNEL 4 NORTHEN IRELAND
-http://rv.imax.re:80/0279710397/1396542894/80279
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| CHANNEL 4 SCOTLAND
-http://rv.imax.re:80/0279710397/1396542894/80278
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| CHANNEL 4 SOUTH AND EAST
-http://rv.imax.re:80/0279710397/1396542894/80277
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV LONDON
-http://rv.imax.re:80/0279710397/1396542894/80276
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV TYNE TEES
-http://rv.imax.re:80/0279710397/1396542894/80275
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV ANGLIA EAST
-http://rv.imax.re:80/0279710397/1396542894/80274
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV ANGLIA WEST
-http://rv.imax.re:80/0279710397/1396542894/80273
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV CENTRAL EAST
-http://rv.imax.re:80/0279710397/1396542894/80272
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV CENTRAL WEST
-http://rv.imax.re:80/0279710397/1396542894/80271
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV GRANADA
-http://rv.imax.re:80/0279710397/1396542894/80270
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV MERIDIAN EAST
-http://rv.imax.re:80/0279710397/1396542894/80269
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV MERIDIAN TV NORTH
-http://rv.imax.re:80/0279710397/1396542894/80268
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV MERIDIAN TV SOUTH
-http://rv.imax.re:80/0279710397/1396542894/80267
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV TYNE TEES TV NORTH
-http://rv.imax.re:80/0279710397/1396542894/80266
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV WESTCOUNTRY SOUTH WEST
-http://rv.imax.re:80/0279710397/1396542894/80265
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV WESTCOUNTRY WEST
-http://rv.imax.re:80/0279710397/1396542894/80264
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV YORKSHIRE TV EAST
-http://rv.imax.re:80/0279710397/1396542894/80263
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV YORKSHIRE WEST
-http://rv.imax.re:80/0279710397/1396542894/80262
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV BORDER
-http://rv.imax.re:80/0279710397/1396542894/80261
-#EXTINF:0 tvg-id="ext" group-title="|UK| LOCAL",|UK|SD| ITV WALES
-http://rv.imax.re:80/0279710397/1396542894/80260
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| SCOTLAND",##### |UK| SCOTLAND #####
-http://rv.imax.re:80/0279710397/1396542894/80259
-#EXTINF:0 tvg-id="ext" group-title="|UK| SCOTLAND",|UK|SD| STV
-http://rv.imax.re:80/0279710397/1396542894/80258
-#EXTINF:0 tvg-id="ext" group-title="|UK| SCOTLAND",|UK|SD| STV CENTRAL WEST
-http://rv.imax.re:80/0279710397/1396542894/80257
-#EXTINF:0 tvg-id="ext" group-title="|UK| SCOTLAND",|UK|SD| STV NORTH
-http://rv.imax.re:80/0279710397/1396542894/80256
-#EXTINF:0 tvg-id="ext" group-title="|UK| SCOTLAND",|UK|SD| BORDER SCOTLAND TV
-http://rv.imax.re:80/0279710397/1396542894/80255
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |FHD|",##### |UK| KIDS |FHD| #####
-http://rv.imax.re:80/0279710397/1396542894/80254
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |FHD|",|UK|FHD| CARTOON NETWORK
-http://rv.imax.re:80/0279710397/1396542894/80253
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |FHD|",|UK|FHD| DISNEY CHANNEL
-http://rv.imax.re:80/0279710397/1396542894/80252
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |FHD|",|UK|FHD| DISNEY JUNIOR
-http://rv.imax.re:80/0279710397/1396542894/80251
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |FHD|",|UK|FHD| DISNEY XD
-http://rv.imax.re:80/0279710397/1396542894/80250
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |FHD|",|UK|FHD| NICK
-http://rv.imax.re:80/0279710397/1396542894/80249
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |FHD|",|UK|FHD| CBEEBIES
-http://rv.imax.re:80/0279710397/1396542894/80248
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",##### |UK| KIDS |SD| #####
-http://rv.imax.re:80/0279710397/1396542894/80247
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| BABY TV
-http://rv.imax.re:80/0279710397/1396542894/80238
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| BOOMERANG
-http://rv.imax.re:80/0279710397/1396542894/80237
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| CARTOONITO (NOT 24)
-http://rv.imax.re:80/0279710397/1396542894/80236
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| CARTOON NETWORK
-http://rv.imax.re:80/0279710397/1396542894/80235
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| DISNEY CHANNEL
-http://rv.imax.re:80/0279710397/1396542894/80234
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| DISNEY JUNIOR
-http://rv.imax.re:80/0279710397/1396542894/80233
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| DISNEY XD
-http://rv.imax.re:80/0279710397/1396542894/80232
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| NICK JR PEPPA
-http://rv.imax.re:80/0279710397/1396542894/80231
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| NICK JUNIOR
-http://rv.imax.re:80/0279710397/1396542894/80230
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| NICKELODEON
-http://rv.imax.re:80/0279710397/1396542894/80229
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| NICKTOONS
-http://rv.imax.re:80/0279710397/1396542894/80228
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| TINY POP
-http://rv.imax.re:80/0279710397/1396542894/80227
-#EXTINF:0 tvg-id="ext" group-title="|UK| KIDS |SD|",|UK|SD| TINY POP+1
-http://rv.imax.re:80/0279710397/1396542894/80226
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",##### |UK| ENTERTAINMENT |FHD| #####
-http://rv.imax.re:80/0279710397/1396542894/80225
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| EDEN
-http://rv.imax.re:80/0279710397/1396542894/80224
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| FOX
-http://rv.imax.re:80/0279710397/1396542894/80223
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| GOLD
-http://rv.imax.re:80/0279710397/1396542894/80222
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| DAVE
-http://rv.imax.re:80/0279710397/1396542894/80221
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| LIFETIME
-http://rv.imax.re:80/0279710397/1396542894/80220
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| E! ENTERTAINMENT
-http://rv.imax.re:80/0279710397/1396542894/80219
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| MORE 4
-http://rv.imax.re:80/0279710397/1396542894/80218
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| QUEST
-http://rv.imax.re:80/0279710397/1396542894/80217
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| STV
-http://rv.imax.re:80/0279710397/1396542894/80215
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| UTV
-http://rv.imax.re:80/0279710397/1396542894/80214
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| UNIVERSAL
-http://rv.imax.re:80/0279710397/1396542894/80213
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| WATCH
-http://rv.imax.re:80/0279710397/1396542894/80212
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| SKY ARTS
-http://rv.imax.re:80/0279710397/1396542894/80210
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| SKY WITNESS
-http://rv.imax.re:80/0279710397/1396542894/80209
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| TLC
-http://rv.imax.re:80/0279710397/1396542894/80208
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |FHD|",|UK|FHD| COMEDY CENTRAL
-http://rv.imax.re:80/0279710397/1396542894/80207
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",##### |UK| ENTERTAINMENT |SD| #####
-http://rv.imax.re:80/0279710397/1396542894/80206
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| SKY TWO
-http://rv.imax.re:80/0279710397/1396542894/80204
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| 5 SELECT
-http://rv.imax.re:80/0279710397/1396542894/80202
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| 5 STAR
-http://rv.imax.re:80/0279710397/1396542894/80201
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| 5 USA
-http://rv.imax.re:80/0279710397/1396542894/80200
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| BET
-http://rv.imax.re:80/0279710397/1396542894/80199
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| BLAZE
-http://rv.imax.re:80/0279710397/1396542894/80198
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| CBS ACTION
-http://rv.imax.re:80/0279710397/1396542894/80197
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| CHALLENGE
-http://rv.imax.re:80/0279710397/1396542894/80194
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| DMAX
-http://rv.imax.re:80/0279710397/1396542894/80192
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| DRAMA
-http://rv.imax.re:80/0279710397/1396542894/80191
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| E4
-http://rv.imax.re:80/0279710397/1396542894/80190
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| EDEN
-http://rv.imax.re:80/0279710397/1396542894/80189
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| FOX
-http://rv.imax.re:80/0279710397/1396542894/80188
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| GOLD
-http://rv.imax.re:80/0279710397/1396542894/80187
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| LIFETIME
-http://rv.imax.re:80/0279710397/1396542894/80186
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| MOVIES 4 MEN
-http://rv.imax.re:80/0279710397/1396542894/80184
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| PBS AMERICA
-http://rv.imax.re:80/0279710397/1396542894/80183
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| PICK TV
-http://rv.imax.re:80/0279710397/1396542894/80182
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| QUEST
-http://rv.imax.re:80/0279710397/1396542894/80181
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| QUEST RED
-http://rv.imax.re:80/0279710397/1396542894/80180
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| REAL LIVES
-http://rv.imax.re:80/0279710397/1396542894/80179
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| REALLY
-http://rv.imax.re:80/0279710397/1396542894/80178
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| SONY MOVIES
-http://rv.imax.re:80/0279710397/1396542894/80177
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| SONY CRIME 2
-http://rv.imax.re:80/0279710397/1396542894/80175
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| TRUE ENTERTAINMENT
-http://rv.imax.re:80/0279710397/1396542894/80174
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| TRUE MOVIES
-http://rv.imax.re:80/0279710397/1396542894/80173
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| UNIVERSAL CHANNEL
-http://rv.imax.re:80/0279710397/1396542894/80172
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| UTV ONE +1
-http://rv.imax.re:80/0279710397/1396542894/80171
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| UTV ULSTER
-http://rv.imax.re:80/0279710397/1396542894/80170
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| WATCH
-http://rv.imax.re:80/0279710397/1396542894/80169
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| YANGA
-http://rv.imax.re:80/0279710397/1396542894/80168
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| SKY ATLANTIC
-http://rv.imax.re:80/0279710397/1396542894/80166
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| SKY ARTS
-http://rv.imax.re:80/0279710397/1396542894/80165
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| QVC
-http://rv.imax.re:80/0279710397/1396542894/80164
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| SKY WITNESS
-http://rv.imax.re:80/0279710397/1396542894/80163
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| QVC STYLE
-http://rv.imax.re:80/0279710397/1396542894/80162
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| QVC EXTRA
-http://rv.imax.re:80/0279710397/1396542894/80161
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| QVC BEAUTY
-http://rv.imax.re:80/0279710397/1396542894/80160
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| JML
-http://rv.imax.re:80/0279710397/1396542894/80159
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| HIGH STREET TV1
-http://rv.imax.re:80/0279710397/1396542894/80158
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| HIGH STREET TV2
-http://rv.imax.re:80/0279710397/1396542894/80157
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| HIGH STREET TV4
-http://rv.imax.re:80/0279710397/1396542894/80156
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| HIGH STREET TV5
-http://rv.imax.re:80/0279710397/1396542894/80155
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| TLC
-http://rv.imax.re:80/0279710397/1396542894/80154
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| COMEDY CENTRAL EXTRA
-http://rv.imax.re:80/0279710397/1396542894/80152
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK|SD| E! ENTERTAINMENT
-http://rv.imax.re:80/0279710397/1396542894/80151
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES NETFLIX
-http://rv.imax.re:80/0279710397/1396542894/80150
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES ROMANCE
-http://rv.imax.re:80/0279710397/1396542894/80149
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIRS HORROR
-http://rv.imax.re:80/0279710397/1396542894/80148
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES DRAMA
-http://rv.imax.re:80/0279710397/1396542894/80147
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES CRIME
-http://rv.imax.re:80/0279710397/1396542894/80146
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES DOCUMENTARY
-http://rv.imax.re:80/0279710397/1396542894/80145
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES COMEDY
-http://rv.imax.re:80/0279710397/1396542894/80144
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES ANIMATION
-http://rv.imax.re:80/0279710397/1396542894/80143
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES ADVENTURE
-http://rv.imax.re:80/0279710397/1396542894/80142
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES ACTION
-http://rv.imax.re:80/0279710397/1396542894/80141
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES WESTERN
-http://rv.imax.re:80/0279710397/1396542894/80140
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES WAR
-http://rv.imax.re:80/0279710397/1396542894/80139
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES SYLVESTER STALLONE
-http://rv.imax.re:80/0279710397/1396542894/80138
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES NICOLAS CAGE
-http://rv.imax.re:80/0279710397/1396542894/80137
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES BRUCE WILLIS
-http://rv.imax.re:80/0279710397/1396542894/80136
-#EXTINF:0 tvg-id="ext" group-title="|UK| ENTERTAINMENT |SD|",|UK| FLIX MOVIES JACKIE CHAN
-http://rv.imax.re:80/0279710397/1396542894/80135
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",##### |UK| MOVIES |FHD| #####
-http://rv.imax.re:80/0279710397/1396542894/80134
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA ACTION
-http://rv.imax.re:80/0279710397/1396542894/80133
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA COMEDY
-http://rv.imax.re:80/0279710397/1396542894/80132
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA DISNEY
-http://rv.imax.re:80/0279710397/1396542894/80131
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA FAMILY
-http://rv.imax.re:80/0279710397/1396542894/80130
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA PREMIERE
-http://rv.imax.re:80/0279710397/1396542894/80129
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA PREMIER +1
-http://rv.imax.re:80/0279710397/1396542894/80128
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA GREATS
-http://rv.imax.re:80/0279710397/1396542894/80127
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA SCI-FI & HORROR
-http://rv.imax.re:80/0279710397/1396542894/80126
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA SUPERHEROES
-http://rv.imax.re:80/0279710397/1396542894/80125
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA THRILLER
-http://rv.imax.re:80/0279710397/1396542894/80124
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA DRAMA
-http://rv.imax.re:80/0279710397/1396542894/80123
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| SKY CINEMA ANIMATION
-http://rv.imax.re:80/0279710397/1396542894/80121
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| TCM
-http://rv.imax.re:80/0279710397/1396542894/80120
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| AMC
-http://rv.imax.re:80/0279710397/1396542894/80119
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| FILM 4
-http://rv.imax.re:80/0279710397/1396542894/80118
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |FHD|",|UK|FHD| MOVIES 24
-http://rv.imax.re:80/0279710397/1396542894/80117
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",##### |UK| MOVIES |SD| #####
-http://rv.imax.re:80/0279710397/1396542894/80116
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA ACTION
-http://rv.imax.re:80/0279710397/1396542894/80115
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA COMEDY
-http://rv.imax.re:80/0279710397/1396542894/80114
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA DRAMA
-http://rv.imax.re:80/0279710397/1396542894/80113
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA DISNEY
-http://rv.imax.re:80/0279710397/1396542894/80112
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA GREATS
-http://rv.imax.re:80/0279710397/1396542894/80110
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA PREMIERE
-http://rv.imax.re:80/0279710397/1396542894/80108
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA PREMIER +1
-http://rv.imax.re:80/0279710397/1396542894/80107
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA SCI-FI & HORROR
-http://rv.imax.re:80/0279710397/1396542894/80106
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| SKY CINEMA SUPERHEROES
-http://rv.imax.re:80/0279710397/1396542894/80105
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| AMC
-http://rv.imax.re:80/0279710397/1396542894/80102
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| FILM 4
-http://rv.imax.re:80/0279710397/1396542894/80101
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| HORROR CHANNEL
-http://rv.imax.re:80/0279710397/1396542894/80100
-#EXTINF:0 tvg-id="ext" group-title="|UK| MOVIES |SD|",|UK|SD| MOVIES 24
-http://rv.imax.re:80/0279710397/1396542894/80099
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",##### |UK| MUSIC #####
-http://rv.imax.re:80/0279710397/1396542894/80098
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|FHD| MTV
-http://rv.imax.re:80/0279710397/1396542894/80097
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|FHD| MTV LIVE
-http://rv.imax.re:80/0279710397/1396542894/80096
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| BOX HITS
-http://rv.imax.re:80/0279710397/1396542894/80095
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| CHART SHOW TV
-http://rv.imax.re:80/0279710397/1396542894/80094
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| CLUBLAND
-http://rv.imax.re:80/0279710397/1396542894/80093
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| KISS TV
-http://rv.imax.re:80/0279710397/1396542894/80091
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MAGIC
-http://rv.imax.re:80/0279710397/1396542894/80090
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MTV BASE
-http://rv.imax.re:80/0279710397/1396542894/80089
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MTV CLASSIC
-http://rv.imax.re:80/0279710397/1396542894/80088
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MTV HITS
-http://rv.imax.re:80/0279710397/1396542894/80087
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MTV MUSIC
-http://rv.imax.re:80/0279710397/1396542894/80086
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MTV ONE
-http://rv.imax.re:80/0279710397/1396542894/80085
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MTV LIVE
-http://rv.imax.re:80/0279710397/1396542894/80084
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| NOW 80S
-http://rv.imax.re:80/0279710397/1396542894/80083
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| NOW MUSIC
-http://rv.imax.re:80/0279710397/1396542894/80082
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| POP
-http://rv.imax.re:80/0279710397/1396542894/80081
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| POP MAX
-http://rv.imax.re:80/0279710397/1396542894/80080
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| VH1
-http://rv.imax.re:80/0279710397/1396542894/80078
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| VICE LAND
-http://rv.imax.re:80/0279710397/1396542894/80077
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| THE BOX
-http://rv.imax.re:80/0279710397/1396542894/80076
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| 4 MUSIC
-http://rv.imax.re:80/0279710397/1396542894/80075
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| TRACE URBAN
-http://rv.imax.re:80/0279710397/1396542894/80074
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| TRACE VAULT
-http://rv.imax.re:80/0279710397/1396542894/80073
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC WONDERAMA
-http://rv.imax.re:80/0279710397/1396542894/80072
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC Y2K
-http://rv.imax.re:80/0279710397/1396542894/80071
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC TROPICALES
-http://rv.imax.re:80/0279710397/1396542894/80070
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC TODDLER TUNES
-http://rv.imax.re:80/0279710397/1396542894/80069
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC TODAYS COUNTRY
-http://rv.imax.re:80/0279710397/1396542894/80068
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC THROWBACK JAMZ
-http://rv.imax.re:80/0279710397/1396542894/80067
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC TEEN BEATS
-http://rv.imax.re:80/0279710397/1396542894/80066
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC TAILGATE PARTY
-http://rv.imax.re:80/0279710397/1396542894/80065
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC ROCK
-http://rv.imax.re:80/0279710397/1396542894/80064
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC RAP 2K
-http://rv.imax.re:80/0279710397/1396542894/80063
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC RAP
-http://rv.imax.re:80/0279710397/1396542894/80062
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC R&B SOUL
-http://rv.imax.re:80/0279710397/1396542894/80061
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC R&B
-http://rv.imax.re:80/0279710397/1396542894/80060
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC POP LATINO
-http://rv.imax.re:80/0279710397/1396542894/80059
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC POP HITS
-http://rv.imax.re:80/0279710397/1396542894/80058
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC POP & COUNTRY
-http://rv.imax.re:80/0279710397/1396542894/80057
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC MEXICANA
-http://rv.imax.re:80/0279710397/1396542894/80056
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC METAL
-http://rv.imax.re:80/0279710397/1396542894/80055
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC KIDZ ONLY!
-http://rv.imax.re:80/0279710397/1396542894/80054
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC KIDZ BOP
-http://rv.imax.re:80/0279710397/1396542894/80053
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC INDIE
-http://rv.imax.re:80/0279710397/1396542894/80052
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC HOLIDAY HITS
-http://rv.imax.re:80/0279710397/1396542894/80051
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC HIT LIST
-http://rv.imax.re:80/0279710397/1396542894/80050
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC HIP-HOP AND R&B
-http://rv.imax.re:80/0279710397/1396542894/80049
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC DANCE/ EDM
-http://rv.imax.re:80/0279710397/1396542894/80048
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC BRITISH HITS
-http://rv.imax.re:80/0279710397/1396542894/80047
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC ALTERNATIVE
-http://rv.imax.re:80/0279710397/1396542894/80046
-#EXTINF:0 tvg-id="ext" group-title="|UK| MUSIC",|UK|SD| MC MUSIC 90S
-http://rv.imax.re:80/0279710397/1396542894/80045
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",##### |UK| DOCUMENTARY |FHD| #####
-http://rv.imax.re:80/0279710397/1396542894/80044
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| DISCOVERY
-http://rv.imax.re:80/0279710397/1396542894/80043
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| NAT GEO
-http://rv.imax.re:80/0279710397/1396542894/80042
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| NAT GEO WILD
-http://rv.imax.re:80/0279710397/1396542894/80041
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| CRIME&INVESTIGATION
-http://rv.imax.re:80/0279710397/1396542894/80039
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| HISTORY
-http://rv.imax.re:80/0279710397/1396542894/80038
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| HISTORY 2
-http://rv.imax.re:80/0279710397/1396542894/80037
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| LOVE NATURE
-http://rv.imax.re:80/0279710397/1396542894/80036
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| PARAMOUNT NETWORK
-http://rv.imax.re:80/0279710397/1396542894/80035
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| SYFY
-http://rv.imax.re:80/0279710397/1396542894/80034
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| SMITHSONIAN CHANNEL
-http://rv.imax.re:80/0279710397/1396542894/80033
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |FHD|",|UK|FHD| SKY NATURE
-http://rv.imax.re:80/0279710397/1396542894/80032
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",##### |UK| DOCUMENTARY |SD| #####
-http://rv.imax.re:80/0279710397/1396542894/80031
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| DISCOVERY HISTORY
-http://rv.imax.re:80/0279710397/1396542894/80029
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| DISCOVERY SCIENCE
-http://rv.imax.re:80/0279710397/1396542894/80027
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| DISCOVERY SHED
-http://rv.imax.re:80/0279710397/1396542894/80026
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| DISCOVERY TURBO
-http://rv.imax.re:80/0279710397/1396542894/80025
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| ANIMAL PLANET
-http://rv.imax.re:80/0279710397/1396542894/80022
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| FORCES TV
-http://rv.imax.re:80/0279710397/1396542894/80019
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| HISTORY
-http://rv.imax.re:80/0279710397/1396542894/80018
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| HISTORY 2
-http://rv.imax.re:80/0279710397/1396542894/80017
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| HORSE AND COUNTRY
-http://rv.imax.re:80/0279710397/1396542894/80016
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| INVESTIGATION DISCOVERY (ID)
-http://rv.imax.re:80/0279710397/1396542894/80015
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| KEEP IT COUNTRY
-http://rv.imax.re:80/0279710397/1396542894/80014
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| MY TV
-http://rv.imax.re:80/0279710397/1396542894/80013
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| PARAMOUNT NETWORK
-http://rv.imax.re:80/0279710397/1396542894/80012
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| SHOWCASE
-http://rv.imax.re:80/0279710397/1396542894/80011
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD|  SKY NATURE
-http://rv.imax.re:80/0279710397/1396542894/80009
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|HD| CHELSEA TV (LIVE ON MATCHES)
-http://rv.imax.re:80/0279710397/1396542894/79975
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|HD| BOX NATION
-http://rv.imax.re:80/0279710397/1396542894/79974
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|FHD| LFC
-http://rv.imax.re:80/0279710397/1396542894/79951
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|FHD| RACING UK
-http://rv.imax.re:80/0279710397/1396542894/79948
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|FHD| MUTV
-http://rv.imax.re:80/0279710397/1396542894/79947
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|FHD| CELTIC TV HD  (LIVE ON MATCHES)
-http://rv.imax.re:80/0279710397/1396542894/79946
-#EXTINF:0 tvg-id="ext" group-title="|UK| DOCUMENTARY |SD|",|UK|SD| MUTV
-http://rv.imax.re:80/0279710397/1396542894/79923
-
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",##### |UK| EVENTS #####
-http://rv.imax.re:80/0279710397/1396542894/79920
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK| PPV 4 (ONLY MATCH TIME)
-http://rv.imax.re:80/0279710397/1396542894/79919
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK| PPV 5  (ONLY MATCH TIME)
-http://rv.imax.re:80/0279710397/1396542894/79918
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK| PPV 1 (ONLY MATCH TIME)
-http://rv.imax.re:80/0279710397/1396542894/79917
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK| PPV 2  (ONLY MATCH TIME)
-http://rv.imax.re:80/0279710397/1396542894/79916
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK| PPV 3 (ONLY MATCH TIME)
-http://rv.imax.re:80/0279710397/1396542894/79915
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK| PPV 6 (ONLY MATCH TIME)
-http://rv.imax.re:80/0279710397/1396542894/79914
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|SD| RACING UK
-http://rv.imax.re:80/0279710397/1396542894/79913
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 1
-http://rv.imax.re:80/0279710397/1396542894/79906
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 2
-http://rv.imax.re:80/0279710397/1396542894/79905
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 3
-http://rv.imax.re:80/0279710397/1396542894/79904
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 4
-http://rv.imax.re:80/0279710397/1396542894/79903
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 5
-http://rv.imax.re:80/0279710397/1396542894/79902
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 6
-http://rv.imax.re:80/0279710397/1396542894/79901
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 7
-http://rv.imax.re:80/0279710397/1396542894/79900
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 8
-http://rv.imax.re:80/0279710397/1396542894/79899
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 9
-http://rv.imax.re:80/0279710397/1396542894/79898
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 10
-http://rv.imax.re:80/0279710397/1396542894/79896
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 11
-http://rv.imax.re:80/0279710397/1396542894/79894
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 13
-http://rv.imax.re:80/0279710397/1396542894/79892
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 12
-http://rv.imax.re:80/0279710397/1396542894/79889
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 14
-http://rv.imax.re:80/0279710397/1396542894/79887
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 15
-http://rv.imax.re:80/0279710397/1396542894/79885
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 16
-http://rv.imax.re:80/0279710397/1396542894/79883
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 17
-http://rv.imax.re:80/0279710397/1396542894/79880
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 18
-http://rv.imax.re:80/0279710397/1396542894/79878
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 19
-http://rv.imax.re:80/0279710397/1396542894/79876
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 20
-http://rv.imax.re:80/0279710397/1396542894/79874
-#EXTINF:0 tvg-id="ext" group-title="|UK| EVENTS",|UK|FHD| BBC RED BUTTON HD 21
-http://rv.imax.re:80/0279710397/1396542894/79872
-
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",##### |IE| GENERAL |HD| #####
-http://rv.imax.re:80/0279710397/1396542894/79841
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| CORONA VIRUS INFO
-http://rv.imax.re:80/0279710397/1396542894/79840
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| RTE ONE
-http://rv.imax.re:80/0279710397/1396542894/79839
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| RTE TWO
-http://rv.imax.re:80/0279710397/1396542894/79838
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| VIRGIN MEDIA ONE
-http://rv.imax.re:80/0279710397/1396542894/79837
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| VIRGIN MEDIA TWO
-http://rv.imax.re:80/0279710397/1396542894/79836
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| VIRGIN MEDIA THREE
-http://rv.imax.re:80/0279710397/1396542894/79835
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| TG4
-http://rv.imax.re:80/0279710397/1396542894/79834
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",|IE|HD| S4C
-http://rv.imax.re:80/0279710397/1396542894/79833
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | PDC DARTS 1
-http://nomorecable.xyz:80/delano/delano/74882
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | PDC DARTS 2
-http://nomorecable.xyz:80/delano/delano/74883
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Eir Sport 1 HD
-http://nomorecable.xyz:80/delano/delano/2107
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Eir Sport 2 HD
-http://nomorecable.xyz:80/delano/delano/1840
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Eir Sport 1 FHD
-http://nomorecable.xyz:80/delano/delano/1839
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Euro Sport 2 FHD
-http://nomorecable.xyz:80/delano/delano/2093
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Euro Sport 2 HD
-http://nomorecable.xyz:80/delano/delano/2092
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Euro Sport 1 FHD
-http://nomorecable.xyz:80/delano/delano/2091
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Euro Sport 1 HD
-http://nomorecable.xyz:80/delano/delano/2090
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Freesports HD
-http://nomorecable.xyz:80/delano/delano/2112
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Premier Sports 2 HD
-http://nomorecable.xyz:80/delano/delano/2170
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Premier Sports 1 HD
-http://nomorecable.xyz:80/delano/delano/2172
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Racing UK HD
-http://nomorecable.xyz:80/delano/delano/2105
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Racing UK FHD
-http://nomorecable.xyz:80/delano/delano/2106
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Mix FHD
-http://nomorecable.xyz:80/delano/delano/46192
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Mix HD
-http://nomorecable.xyz:80/delano/delano/2087
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Action FHD
-http://nomorecable.xyz:80/delano/delano/46198
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Arena FHD
-http://nomorecable.xyz:80/delano/delano/2083
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Arena HD
-http://nomorecable.xyz:80/delano/delano/2082
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Football FHD
-http://nomorecable.xyz:80/delano/delano/2085
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Football HD
-http://nomorecable.xyz:80/delano/delano/2084
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Main Event FHD
-http://nomorecable.xyz:80/delano/delano/2075
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Main Event HD
-http://nomorecable.xyz:80/delano/delano/46193
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports News FHD
-http://nomorecable.xyz:80/delano/delano/2089
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports News HD
-http://nomorecable.xyz:80/delano/delano/2088
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Premier League FHD
-http://nomorecable.xyz:80/delano/delano/2081
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Premier League HD
-http://nomorecable.xyz:80/delano/delano/2080
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Sky Sports Racing HD
-http://nomorecable.xyz:80/delano/delano/114112
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Sky Sports Racing FHD
-http://nomorecable.xyz:80/delano/delano/114113
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports F1 FHD
-http://nomorecable.xyz:80/delano/delano/46196
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports F1 HD
-http://nomorecable.xyz:80/delano/delano/74881
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | SKY SPORTS GOLF FHD
-http://nomorecable.xyz:80/delano/delano/77374
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | SKY SPORTS GOLF HD
-http://nomorecable.xyz:80/delano/delano/77373
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Cricket HD
-http://nomorecable.xyz:80/delano/delano/106736
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="|IE| GENERAL |HD|",UK | Sky Sports Cricket FHD
-http://nomorecable.xyz:80/delano/delano/106737
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport ESPN FHD
-http://nomorecable.xyz:80/delano/delano/71301
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport ESPN HD
-http://nomorecable.xyz:80/delano/delano/71300
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport 1 FHD
-http://nomorecable.xyz:80/delano/delano/2095
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport 2 FHD
-http://nomorecable.xyz:80/delano/delano/2097
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport 3 FHD
-http://nomorecable.xyz:80/delano/delano/2099
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport 1 HD
-http://nomorecable.xyz:80/delano/delano/2094
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport 2 HD
-http://nomorecable.xyz:80/delano/delano/2096
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="|IE| GENERAL |HD|",UK | BT Sport 3 HD
-http://nomorecable.xyz:80/delano/delano/2098
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="|IE| GENERAL |HD|",UK | BoxNation HD
-http://nomorecable.xyz:80/delano/delano/2111
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="|IE| GENERAL |HD|",UK | Boxnation SD
-http://nomorecable.xyz:80/delano/delano/46188
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | LFC TV
-http://nomorecable.xyz:80/delano/delano/109209
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | Chelsea TV HD
-http://nomorecable.xyz:80/delano/delano/109211
-#EXTINF:0 tvg-id="MUTV.uk" group-title="|IE| GENERAL |HD|",UK | MUTV
-http://nomorecable.xyz:80/delano/delano/109210
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Sky News Extra 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78685
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Sky News Extra 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78686
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Sky News Extra 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78687
-#EXTINF:0 tvg-id="BBCAlba.uk" group-title="|IE| GENERAL |HD|",UK: BBC ALBA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78688
-#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="|IE| GENERAL |HD|",UK: BBC World News
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78689
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC-News-HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78690
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC-News-SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78691
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC-Parliament
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78692
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC-Scotland-HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78693
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC1-HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78694
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC1-SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78695
-#EXTINF:0 tvg-id="CBBC.uk" group-title="|IE| GENERAL |HD|",UK: CBBC HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78696
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC 1 Northern Ireland | HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78697
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="|IE| GENERAL |HD|",UK | BBC One FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78698
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC 1 (North West)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78699
-#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="|IE| GENERAL |HD|",BBC World News
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78700
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",BBC World News(X)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78701
-#EXTINF:0 tvg-id="BBC2.uk" group-title="|IE| GENERAL |HD|",Uk: BBC Two(I)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78702
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Uk: BBC Four(Z)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78703
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Uk | BBC News(V)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78704
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC THREE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78705
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="|IE| GENERAL |HD|",UK: BBC ONE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78706
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK BBC 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78707
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK BBC 4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78708
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports News HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78709
-#EXTINF:0 tvg-id="Euronews.uk" group-title="|IE| GENERAL |HD|",UK: Euronews
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78710
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",NEWS | CNBC(X)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78711
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",por: Sky News
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78712
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",por: CNN
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78713
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",por: Euronews
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78714
-#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="|IE| GENERAL |HD|",UK: National Geographic
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78715
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Disc History +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78716
-#EXTINF:0 tvg-id="DiscoverySciencePlus1.uk" group-title="|IE| GENERAL |HD|",Disc Science +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78717
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Disc Turbo +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78718
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Disc.History
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78719
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Disc.Science
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78720
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Disc.Turbo
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78721
-#EXTINF:0 tvg-id="Discoveryplus1.uk" group-title="|IE| GENERAL |HD|",Discovery +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78722
-#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="|IE| GENERAL |HD|",Discovery Shed
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78723
-#EXTINF:0 tvg-id="CrimeInvestigation.it" group-title="|IE| GENERAL |HD|",Crime Investigation HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78724
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78725
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78726
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78727
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78728
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78729
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 6:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78730
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 7
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78731
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 8
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78732
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78733
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 9
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78734
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78735
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 12
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78736
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 13
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78737
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 14
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78738
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 15
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78739
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 16
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78740
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 17
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78741
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 18
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78742
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 19
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78743
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",iFollow 20
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78744
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Celtic Tv
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78745
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Rangers FC TV (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78746
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Celtic FC TV (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78747
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Aberdeen TV (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78748
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Dundee FC (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78749
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Dundee Utd (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78750
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Rotherham TV (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78751
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Falkirk TV (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78752
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Hearts FC (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78753
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Hibs TV (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78754
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Motherwell FC (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78755
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Raith Rovers FC (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78756
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: ST Johnstone FC (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78757
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: ST Mirren FC (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78758
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SPFL: Kilmarnock FC (Live Matches)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78759
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: ASTRO CRICKET
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78760
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: ASTRO SPORTS 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78761
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: ASTRO SPORTS 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78762
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: ASTRO SPORTS 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78763
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: ASTRO SPORTS 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78764
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78765
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78766
-#EXTINF:0 tvg-id="bein11hd.jsc" group-title="|IE| GENERAL |HD|",UK: BEIN SPORTS 11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78767
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BEIN SPORTS 12
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78768
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78769
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BEIN SPORTS 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78770
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78771
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78772
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 6
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78773
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 7
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78774
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 8
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78775
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports 9
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78776
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports En Espanyol | HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78777
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports La Liga | HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78778
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: beIN Sports USA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78779
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="|IE| GENERAL |HD|",UK: Eurosport 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78780
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="|IE| GENERAL |HD|",UK: Eurosport 1 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78781
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="|IE| GENERAL |HD|",UK: EuroSport 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78782
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="|IE| GENERAL |HD|",UK: Eurosport 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78783
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="|IE| GENERAL |HD|",UK: Eurosport 2 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78784
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="|IE| GENERAL |HD|",UK: EuroSport 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78785
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Freesports HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78786
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Motorsport TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78787
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Motorsport TV UK
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78788
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: PREMIER SPORTS 1  UHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78789
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Premier Sports 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78790
-#EXTINF:0 tvg-id="PremierSports2.uk" group-title="|IE| GENERAL |HD|",UK: Premier Sports 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78791
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL1:   LUTON 19:00 BIRMINGHAM(CH)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78792
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL2: QPR 19:00 ROTHERHAM(CH)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78793
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL3:  STOKE 19:00 NORWICH(CH)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78794
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL4: WYCOMBE 19:00 HUDDERSFIELD(CH)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78795
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL5:BARNSLEY 19:45 BRENTFORD(CH)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78796
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL6: PRESTON 19:45 BLACKBURN(CH)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78797
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL7: GILLINGAHM 18:00 WIMBLEDON(L1)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78798
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL8: LINCOLN 19:00 MAN CITY U21 17/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78799
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL9: BURTON 19:00 CHARLTON(L1)24/11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78800
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL10: MK DONS 19:00 WIGAN (L1)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78801
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL11: PETERBOROUGH 19:00 BURTON (L1)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78802
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL12: SWINDON 19:00 ACC STANLEY (L1)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78803
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL13: FLEETWOOD 19:45 SHREWSBURY (L1)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78804
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL14: PLYMOUTH 19:45 DONCASTER (L1)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78805
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL15:PORTSMOUTH 19:45 NORTHAMPTON (L1)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78806
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL16: ROCHDALE 19:45 SUNDERLAND (L1)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78807
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL17: CRAWLEY 18:30 TRANMERE (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78808
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL18: BOLTON 19:00 BRADFORD (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78809
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL19: CARLISLE 19:00 MORECAMBE (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78810
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL20: FOREST GREEN 19:00 GRIMSBY (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78811
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL21: HARROGATE 19:00 STEVENAGE (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78812
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL22: LEYTON ORIENT 19:00 EXETER (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78813
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL23: MANSFIELD 19:00 BARROW (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78814
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL24: NEWPORT 19:00 COLCHESTER (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78815
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL25: PORT VALE 19:00 CHELTENHAM (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78816
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL26: SOUTHEND 19:00 OLDHAM (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78817
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL27: WALSALL 19:00 CAMBRIDGE (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78818
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL28: SCUNTHORPE 19:45 SALFORD (L2)27/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78819
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL29: GRIMSBY 15;00 CARLISLE (L2)24/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78820
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL30: MORECAMBE 15:00 FOREST GREEN (L2)24/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78821
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL31: OLDHAM 15:00 PORT VALE (L2)24/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78822
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL32: SALFORD 15:00 CRAWLEY (L2)24/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78823
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL33: STEVENAGE 15:00 LEYTON ORIENT (L2)24/10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78824
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EFL34:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78825
-#EXTINF:0 tvg-id="Eden.uk" group-title="|IE| GENERAL |HD|",UK: Eden
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78826
-#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="|IE| GENERAL |HD|",UK: TV3 Ireland
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78827
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: TG4 Ireland
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78828
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: TLC Ireland
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78829
-#EXTINF:0 tvg-id="Zing.uk" group-title="|IE| GENERAL |HD|",UK: Zing
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78830
-#EXTINF:0 tvg-id="Really.uk" group-title="|IE| GENERAL |HD|",UK: Really
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78831
-#EXTINF:0 tvg-id="Quest.uk" group-title="|IE| GENERAL |HD|",UK: Quest
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78832
-#EXTINF:0 tvg-id="PickTV.uk" group-title="|IE| GENERAL |HD|",UK: Pick
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78833
-#EXTINF:0 tvg-id="More4.uk" group-title="|IE| GENERAL |HD|",UK: More4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78834
-#EXTINF:0 tvg-id="Home.uk" group-title="|IE| GENERAL |HD|",UK: Home
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78835
-#EXTINF:0 tvg-id="Colors.uk" group-title="|IE| GENERAL |HD|",UK: Colors
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78836
-#EXTINF:0 tvg-id="Challenge.uk" group-title="|IE| GENERAL |HD|",UK: Challenge
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78837
-#EXTINF:0 tvg-id="4Seven.uk" group-title="|IE| GENERAL |HD|",UK: 4seven
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78838
-#EXTINF:0 tvg-id="4Music.uk" group-title="|IE| GENERAL |HD|",UK: 4Music
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78839
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="|IE| GENERAL |HD|",UK: Cartoon Network
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78840
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="|IE| GENERAL |HD|",UK: Boomerang
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78841
-#EXTINF:0 tvg-id="Yesterday.uk" group-title="|IE| GENERAL |HD|",UK: Yesterday
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78842
-#EXTINF:0 tvg-id="VH1UK.uk" group-title="|IE| GENERAL |HD|",UK: VH1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78843
-#EXTINF:0 tvg-id="TruTV.uk" group-title="|IE| GENERAL |HD|",UK: truTV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78844
-#EXTINF:0 tvg-id="TrueMovies.uk" group-title="|IE| GENERAL |HD|",UK: True Movies
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78845
-#EXTINF:0 tvg-id="TrueEntertainment.uk" group-title="|IE| GENERAL |HD|",UK: True Entertainment
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78846
-#EXTINF:0 tvg-id="SonyCrimeChannel2.uk" group-title="|IE| GENERAL |HD|",UK: True Crime
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78847
-#EXTINF:0 tvg-id="TravelChannel.uk" group-title="|IE| GENERAL |HD|",UK: Travel Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78848
-#EXTINF:0 tvg-id="TCM.uk" group-title="|IE| GENERAL |HD|",UK: TCM HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78849
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="|IE| GENERAL |HD|",UK: SYFY HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78850
-#EXTINF:0 tvg-id="SonyMovies.uk" group-title="|IE| GENERAL |HD|",UK: Sony Movies
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78851
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="|IE| GENERAL |HD|",UK: Nicktoons
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78852
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="|IE| GENERAL |HD|",UK: Nickelodeon
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78853
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="|IE| GENERAL |HD|",UK: Nick Jr
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78854
-#EXTINF:0 tvg-id="MUTV.uk" group-title="|IE| GENERAL |HD|",UK: MUTV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78855
-#EXTINF:0 tvg-id="MTVRocks.uk" group-title="|IE| GENERAL |HD|",UK: MTV ROCKS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78856
-#EXTINF:0 tvg-id="MTVMusic.uk" group-title="|IE| GENERAL |HD|",UK: MTV MUSIC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78857
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="|IE| GENERAL |HD|",UK: MTV HITS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78858
-#EXTINF:0 tvg-id="MTV.uk" group-title="|IE| GENERAL |HD|",UK: MTV HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78859
-#EXTINF:0 tvg-id="MTVDance.uk" group-title="|IE| GENERAL |HD|",UK: MTV DANCE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78860
-#EXTINF:0 tvg-id="MTVClassic.uk" group-title="|IE| GENERAL |HD|",UK: MTV Classic
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78861
-#EXTINF:0 tvg-id="MTVBase.uk" group-title="|IE| GENERAL |HD|",UK: MTV BASE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78862
-#EXTINF:0 tvg-id="ITVBe.uk" group-title="|IE| GENERAL |HD|",UK: ITVBe
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78863
-#EXTINF:0 tvg-id="ITV3.uk" group-title="|IE| GENERAL |HD|",UK: ITV3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78864
-#EXTINF:0 tvg-id="ITV2.uk" group-title="|IE| GENERAL |HD|",UK: ITV2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78865
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="|IE| GENERAL |HD|",UK: ITV1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78866
-#EXTINF:0 tvg-id="GoodFood.uk" group-title="|IE| GENERAL |HD|",UK: Good Food
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78867
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="|IE| GENERAL |HD|",UK: Food Network
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78868
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: E! Entertaiment
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78869
-#EXTINF:0 tvg-id="Channel4.uk" group-title="|IE| GENERAL |HD|",UK: Channel 4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78870
-#EXTINF:0 tvg-id="Channel5.uk" group-title="|IE| GENERAL |HD|",UK: Channel 5 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78871
-#EXTINF:0 tvg-id="CBSReality.uk" group-title="|IE| GENERAL |HD|",UK: CBS Reality
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78872
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="|IE| GENERAL |HD|",UK: CBS Drama
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78873
-#EXTINF:0 tvg-id="CBSAction.uk" group-title="|IE| GENERAL |HD|",UK: CBS Action
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78874
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="|IE| GENERAL |HD|",UK: Baby TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78875
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="|IE| GENERAL |HD|",UK: Animal Planet HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78876
-#EXTINF:0 tvg-id="Alibi.uk" group-title="|IE| GENERAL |HD|",UK: Alibi
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78877
-#EXTINF:0 tvg-id="5star.uk" group-title="|IE| GENERAL |HD|",UK: 5STAR
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78878
-#EXTINF:0 tvg-id="Spike.uk" group-title="|IE| GENERAL |HD|",UK: 5Spike
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78879
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: 5Select
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78880
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="|IE| GENERAL |HD|",UK: Racing UK
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78881
-#EXTINF:0 tvg-id="MotorsTV.uk" group-title="|IE| GENERAL |HD|",UK: Motors TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78882
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="|IE| GENERAL |HD|",UK: BBC News HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78883
-#EXTINF:0 tvg-id="BBC2.uk" group-title="|IE| GENERAL |HD|",UK: BBC TWO HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78884
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="|IE| GENERAL |HD|",UK: BBC ONE HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78885
-#EXTINF:0 tvg-id="RTE1.ie" group-title="|IE| GENERAL |HD|",UK: RTE 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78886
-#EXTINF:0 tvg-id="RTE2.ie" group-title="|IE| GENERAL |HD|",UK: RTE 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78887
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="|IE| GENERAL |HD|",UK: Premier Sports
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78888
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="|IE| GENERAL |HD|",UK: Premier Sports HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78889
-#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="|IE| GENERAL |HD|",UK: Liverpool FC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78890
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Bein Sport 11
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78891
-#EXTINF:0 tvg-id="Sky1.uk" group-title="|IE| GENERAL |HD|",UK: Sky One HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78892
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="|IE| GENERAL |HD|",UK: Sky News
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78893
-#EXTINF:0 tvg-id="SkyLiving.uk" group-title="|IE| GENERAL |HD|",UK: Sky Living
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78894
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Sci-Fi & Horror
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78895
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Disney HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78896
-#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="|IE| GENERAL |HD|",UK: Sky Atlantic HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78897
-#EXTINF:0 tvg-id="SkyArts1.uk" group-title="|IE| GENERAL |HD|",UK: Sky Arts HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78898
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK : FASHION HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78899
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK : HD FASION (B)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78900
-#EXTINF:0 tvg-id="5star.uk" group-title="|IE| GENERAL |HD|",5 Star
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78901
-#EXTINF:0 tvg-id="FiveUSA.uk" group-title="|IE| GENERAL |HD|",5 USA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78902
-#EXTINF:0 tvg-id="Alibi.uk" group-title="|IE| GENERAL |HD|",alibi
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78903
-#EXTINF:0 tvg-id="Alibiplus1.uk" group-title="|IE| GENERAL |HD|",Alibi +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78904
-#EXTINF:0 tvg-id="AnimalPlanetplus1.uk" group-title="|IE| GENERAL |HD|",Animal Planet +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78905
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="|IE| GENERAL |HD|",BabyTV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78906
-#EXTINF:0 tvg-id="BBC4.uk" group-title="|IE| GENERAL |HD|",BBC Four
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78907
-#EXTINF:0 tvg-id="BBC2NorthernIreland.uk" group-title="|IE| GENERAL |HD|",BBC Two NI
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78908
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="|IE| GENERAL |HD|",Blaze
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78909
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="|IE| GENERAL |HD|",Boomerang
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78910
-#EXTINF:0 tvg-id="Boomerangplus1.uk" group-title="|IE| GENERAL |HD|",Boomerang +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78911
-#EXTINF:0 tvg-id="CartoonNetworkPlus1.uk" group-title="|IE| GENERAL |HD|",Cartoon Network +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78912
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="|IE| GENERAL |HD|",Cartoonito
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78913
-#EXTINF:0 tvg-id="CBBC.uk" group-title="|IE| GENERAL |HD|",CBBC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78914
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="|IE| GENERAL |HD|",CBS Drama
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78915
-#EXTINF:0 tvg-id="CBSAction.uk" group-title="|IE| GENERAL |HD|",CBS Justice
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78916
-#EXTINF:0 tvg-id="CBSReality.uk" group-title="|IE| GENERAL |HD|",CBS Reality
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78917
-#EXTINF:0 tvg-id="CBSReality1.uk" group-title="|IE| GENERAL |HD|",CBS Reality +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78918
-#EXTINF:0 tvg-id="Challenge.uk" group-title="|IE| GENERAL |HD|",Challenge
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78919
-#EXTINF:0 tvg-id="Channel4.uk" group-title="|IE| GENERAL |HD|",Channel 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78920
-#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="|IE| GENERAL |HD|",Channel 4 +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78921
-#EXTINF:0 tvg-id="CITV.uk" group-title="|IE| GENERAL |HD|",CITV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78922
-#EXTINF:0 tvg-id="ClublandTV.uk" group-title="|IE| GENERAL |HD|",Clubland TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78923
-#EXTINF:0 tvg-id="ComedyCentralplus1.uk" group-title="|IE| GENERAL |HD|",Comedy Central +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78924
-#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="|IE| GENERAL |HD|",Comedy Xtra
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78925
-#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="|IE| GENERAL |HD|",Dave Ja Vu
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78926
-#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="|IE| GENERAL |HD|",Dmax
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78927
-#EXTINF:0 tvg-id="DiscoveryDMAXPlus1.uk" group-title="|IE| GENERAL |HD|",Dmax +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78928
-#EXTINF:0 tvg-id="Drama.uk" group-title="|IE| GENERAL |HD|",Drama
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78929
-#EXTINF:0 tvg-id="DramaPlus1.uk" group-title="|IE| GENERAL |HD|",Drama +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78930
-#EXTINF:0 tvg-id="E.uk" group-title="|IE| GENERAL |HD|",E!
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78931
-#EXTINF:0 tvg-id="E4.uk" group-title="|IE| GENERAL |HD|",E4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78932
-#EXTINF:0 tvg-id="E4plus1.uk" group-title="|IE| GENERAL |HD|",E4 +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78933
-#EXTINF:0 tvg-id="Eden.uk" group-title="|IE| GENERAL |HD|",Eden
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78934
-#EXTINF:0 tvg-id="EdenPlus1.uk" group-title="|IE| GENERAL |HD|",Eden +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78935
-#EXTINF:0 tvg-id="Film4.uk" group-title="|IE| GENERAL |HD|",Film4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78936
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="|IE| GENERAL |HD|",Food Network
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78937
-#EXTINF:0 tvg-id="FoodNetworkPlus1.uk" group-title="|IE| GENERAL |HD|",Food Network +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78938
-#EXTINF:0 tvg-id="ForcesTV.uk" group-title="|IE| GENERAL |HD|",Forces TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78939
-#EXTINF:0 tvg-id="GOLD.uk" group-title="|IE| GENERAL |HD|",Gold
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78940
-#EXTINF:0 tvg-id="GOLDPlus1.uk" group-title="|IE| GENERAL |HD|",Gold +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78941
-#EXTINF:0 tvg-id="HGTV.us" group-title="|IE| GENERAL |HD|",HGTV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78942
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",HGTV +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78943
-#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="|IE| GENERAL |HD|",Home & Health
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78944
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Home & Health +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78945
-#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="|IE| GENERAL |HD|",horror channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78946
-#EXTINF:0 tvg-id="HorrorChannelPlus1.uk" group-title="|IE| GENERAL |HD|",Horror Channel +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78947
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Horse & County
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78948
-#EXTINF:0 tvg-id="Investigation.uk" group-title="|IE| GENERAL |HD|",ID
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78949
-#EXTINF:0 tvg-id="Investigationplus1.uk" group-title="|IE| GENERAL |HD|",ID +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78950
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="|IE| GENERAL |HD|",ITV  1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78951
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",ITV 1 +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78952
-#EXTINF:0 tvg-id="ITV2.uk" group-title="|IE| GENERAL |HD|",ITV 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78953
-#EXTINF:0 tvg-id="ITV3.uk" group-title="|IE| GENERAL |HD|",ITV 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78954
-#EXTINF:0 tvg-id="ITV4.uk" group-title="|IE| GENERAL |HD|",ITV 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78955
-#EXTINF:0 tvg-id="ITV4plus1.uk" group-title="|IE| GENERAL |HD|",ITV 4 +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78956
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="|IE| GENERAL |HD|",ITV HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78957
-#EXTINF:0 tvg-id="ITVBe.uk" group-title="|IE| GENERAL |HD|",ITVBE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78958
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Kerrang !
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78959
-#EXTINF:0 tvg-id="Magic.uk" group-title="|IE| GENERAL |HD|",Magic
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78960
-#EXTINF:0 tvg-id="More4Plus1.uk" group-title="|IE| GENERAL |HD|",More4 +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78961
-#EXTINF:0 tvg-id="MTV.uk" group-title="|IE| GENERAL |HD|",MTV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78962
-#EXTINF:0 tvg-id="MTVBase.uk" group-title="|IE| GENERAL |HD|",MTV Base
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78963
-#EXTINF:0 tvg-id="MTVClassic.uk" group-title="|IE| GENERAL |HD|",MTV Classic
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78964
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="|IE| GENERAL |HD|",MTV HITS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78965
-#EXTINF:0 tvg-id="MTVMusic.uk" group-title="|IE| GENERAL |HD|",MTV Music
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78966
-#EXTINF:0 tvg-id="NickJrPlus1.uk" group-title="|IE| GENERAL |HD|",Nick JR +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78967
-#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="|IE| GENERAL |HD|",Nick Jr Too
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78968
-#EXTINF:0 tvg-id="NickJunior.uk" group-title="|IE| GENERAL |HD|",Nick Jr.
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78969
-#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="|IE| GENERAL |HD|",Nickelodeon
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78970
-#EXTINF:0 tvg-id="NickelodeonPlus1.uk" group-title="|IE| GENERAL |HD|",Nickelodeon +1 uk
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78971
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="|IE| GENERAL |HD|",Nicktoons
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78972
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Now 70\'s
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78973
-#EXTINF:0 tvg-id="OireachtasTV.uk" group-title="|IE| GENERAL |HD|",Oireachtas TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78974
-#EXTINF:0 tvg-id="Paramount.es" group-title="|IE| GENERAL |HD|",Paramount Network
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78975
-#EXTINF:0 tvg-id="PBS.uk" group-title="|IE| GENERAL |HD|",PBS America
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78976
-#EXTINF:0 tvg-id="PickTV.uk" group-title="|IE| GENERAL |HD|",Pick
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78977
-#EXTINF:0 tvg-id="pop.uk" group-title="|IE| GENERAL |HD|",POP
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78978
-#EXTINF:0 tvg-id="PopPlus1.uk" group-title="|IE| GENERAL |HD|",POP +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78979
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",POP Max
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78980
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",POP MAX +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78981
-#EXTINF:0 tvg-id="Quest.uk" group-title="|IE| GENERAL |HD|",Quest
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78982
-#EXTINF:0 tvg-id="QuestPlus1.uk" group-title="|IE| GENERAL |HD|",Quest +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78983
-#EXTINF:0 tvg-id="QuestRed.uk" group-title="|IE| GENERAL |HD|",Quest Red
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78984
-#EXTINF:0 tvg-id="QuestRedPlus1.uk" group-title="|IE| GENERAL |HD|",Quest Red +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78985
-#EXTINF:0 tvg-id="Really.uk" group-title="|IE| GENERAL |HD|",Really
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78986
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",RTE +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78987
-#EXTINF:0 tvg-id="RTE2.ie" group-title="|IE| GENERAL |HD|",RTE 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78988
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",RTE 2+1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78989
-#EXTINF:0 tvg-id="RTEjr.uk" group-title="|IE| GENERAL |HD|",RTE Junior
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78990
-#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="|IE| GENERAL |HD|",RTE News Now
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78991
-#EXTINF:0 tvg-id="RTE1.ie" group-title="|IE| GENERAL |HD|",RTE ONE HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78992
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Smithsonian FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78993
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Sony Action
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78994
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Sony Action +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78995
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="|IE| GENERAL |HD|",Sony Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78996
-#EXTINF:0 tvg-id="SonyCrimeChannelPlus1.uk" group-title="|IE| GENERAL |HD|",Sony Channel +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78997
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Sony Christmas
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78998
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Sony Christmas +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/78999
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="|IE| GENERAL |HD|",Sony Crime
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79000
-#EXTINF:0 tvg-id="SonyMovies.uk" group-title="|IE| GENERAL |HD|",Sony Movies
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79001
-#EXTINF:0 tvg-id="SonyMoviesplus1.uk" group-title="|IE| GENERAL |HD|",Sony Movies +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79002
-#EXTINF:0 tvg-id="TalkingPictures.uk" group-title="|IE| GENERAL |HD|",TalkingPictures
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79003
-#EXTINF:0 tvg-id="TCM.uk" group-title="|IE| GENERAL |HD|",TCM
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79004
-#EXTINF:0 tvg-id="TCMplus1.uk" group-title="|IE| GENERAL |HD|",TCM +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79005
-#EXTINF:0 tvg-id="TG4.ie" group-title="|IE| GENERAL |HD|",TG4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79006
-#EXTINF:0 tvg-id="TheBox.uk" group-title="|IE| GENERAL |HD|",The Box
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79007
-#EXTINF:0 tvg-id="TinyPop.uk" group-title="|IE| GENERAL |HD|",Tiny Pop
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79008
-#EXTINF:0 tvg-id="tinypop1.uk" group-title="|IE| GENERAL |HD|",Tiny Pop +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79009
-#EXTINF:0 tvg-id="TLCplus1.uk" group-title="|IE| GENERAL |HD|",TLC +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79010
-#EXTINF:0 tvg-id="TraceVault.uk" group-title="|IE| GENERAL |HD|",Trace Vault
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79011
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Trace Xmas
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79012
-#EXTINF:0 tvg-id="VirginMediaThree.ie" group-title="|IE| GENERAL |HD|",Virgin Three
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79013
-#EXTINF:0 tvg-id="VirginMediaTwo.ie" group-title="|IE| GENERAL |HD|",Virgin Two
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79014
-#EXTINF:0 tvg-id="W.uk" group-title="|IE| GENERAL |HD|",W
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79015
-#EXTINF:0 tvg-id="WPlus1.uk" group-title="|IE| GENERAL |HD|",W +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79016
-#EXTINF:0 tvg-id="Yesterday.uk" group-title="|IE| GENERAL |HD|",Yesterday
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79017
-#EXTINF:0 tvg-id="YesterdayPlus1.uk" group-title="|IE| GENERAL |HD|",Yesterday +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79018
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="|IE| GENERAL |HD|",Animal Planet
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79019
-#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="|IE| GENERAL |HD|",BBC One NI
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79020
-#EXTINF:0 tvg-id="Channel5.uk" group-title="|IE| GENERAL |HD|",Channel 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79021
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="|IE| GENERAL |HD|",Comedy Central
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79022
-#EXTINF:0 tvg-id="Discovery.uk" group-title="|IE| GENERAL |HD|",Discovery
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79023
-#EXTINF:0 tvg-id="More4.uk" group-title="|IE| GENERAL |HD|",More4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79024
-#EXTINF:0 tvg-id="TG4.ie" group-title="|IE| GENERAL |HD|",TG4 (backup)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79025
-#EXTINF:0 tvg-id="TLC.uk" group-title="|IE| GENERAL |HD|",TLC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79026
-#EXTINF:0 tvg-id="UTV.uk" group-title="|IE| GENERAL |HD|",UTV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79027
-#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="|IE| GENERAL |HD|",Virgin One
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79028
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Bt Sports 02 F H D
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79029
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT SPORT 1 F H D
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79030
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="|IE| GENERAL |HD|",UK: BT Sport 2 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79031
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="|IE| GENERAL |HD|",UK: BT Sport 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79032
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="|IE| GENERAL |HD|",UK: BT Sport 3 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79033
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="|IE| GENERAL |HD|",UK: BT Sport 3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79034
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="|IE| GENERAL |HD|",UK: BT Sport 1 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79035
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="|IE| GENERAL |HD|",UK: BT Sport 3 SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79036
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="|IE| GENERAL |HD|",UK: BT Sport ESPN FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79037
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="|IE| GENERAL |HD|",UK: Bt Sport ESPN SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79038
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT SPORT 1 UHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79039
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT SPORT EXTRA 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79040
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT SPORT EXTRA 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79041
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT SPORT EXTRA 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79042
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT SPORT EXTRA 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79043
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT SPORT EXTRA 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79044
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: BT Sports 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79045
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: BT Sports 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79046
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: BT Sports 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79047
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: BT Sport ESPN
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79048
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BT Sport Box Office PPV (Live During Events Only)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79049
-#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="|IE| GENERAL |HD|",UK: Animal Planet
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79050
-#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="|IE| GENERAL |HD|",UK: Crime Investigation
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79051
-#EXTINF:0 tvg-id="Discovery.uk" group-title="|IE| GENERAL |HD|",UK: Discovery Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79052
-#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="|IE| GENERAL |HD|",UK: Discovery History
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79053
-#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="|IE| GENERAL |HD|",UK: Discovery Science
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79054
-#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="|IE| GENERAL |HD|",UK: Discovery Shed
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79055
-#EXTINF:0 tvg-id="History.uk" group-title="|IE| GENERAL |HD|",UK: History
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79056
-#EXTINF:0 tvg-id="Investigation.uk" group-title="|IE| GENERAL |HD|",UK: Investigation Discovery
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79057
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="|IE| GENERAL |HD|",Discovery TURBO UK
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79058
-#EXTINF:0 tvg-id="Discoveryplus1.uk" group-title="|IE| GENERAL |HD|",UK: Discovery +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79059
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY LIVING
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79060
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY ARTS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79061
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: NAT GEO PEOPLE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79062
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: DISCOVERY TURBO
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79063
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: DISCOVERY SHED
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79064
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: DISCOVERY SCIENCE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79065
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: DISCOVERY INVESTIGATION
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79066
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: CRIME AND INVESTIGATION HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79067
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: COMEDY CENTRAL EXTRA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79068
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: ANIMAL PLANET
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79069
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: VH 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79070
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Travel Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79071
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Sky Atlantic
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79072
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Discovery History
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79073
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: COMEDY CENTRAL
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79074
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK : 5 Select
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79075
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: 4Seven-HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79076
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: 5 Spike
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79077
-#EXTINF:0 tvg-id="FiveUSA.uk" group-title="|IE| GENERAL |HD|",UK: 5USA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79078
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Alibi-HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79079
-#EXTINF:0 tvg-id="AMC.uk" group-title="|IE| GENERAL |HD|",UK: AMC FROM BT
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79080
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: CBS Justice
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79081
-#EXTINF:0 tvg-id="CNN.nws" group-title="|IE| GENERAL |HD|",UK: CNN
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79082
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="|IE| GENERAL |HD|",UK: Comedy Central
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79083
-#EXTINF:0 tvg-id="Dave.uk" group-title="|IE| GENERAL |HD|",UK: Dave
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79084
-#EXTINF:0 tvg-id="Drama.uk" group-title="|IE| GENERAL |HD|",UK: Drama
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79085
-#EXTINF:0 tvg-id="E.uk" group-title="|IE| GENERAL |HD|",UK: E!
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79086
-#EXTINF:0 tvg-id="E4.uk" group-title="|IE| GENERAL |HD|",UK: E4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79087
-#EXTINF:0 tvg-id="Eden.uk" group-title="|IE| GENERAL |HD|",UK: Eden HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79088
-#EXTINF:0 tvg-id="Film4.uk" group-title="|IE| GENERAL |HD|",UK: Film4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79089
-#EXTINF:0 tvg-id="FoodNetworkPlus1.uk" group-title="|IE| GENERAL |HD|",UK: Food Network  1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79090
-#EXTINF:0 tvg-id="FX.uk" group-title="|IE| GENERAL |HD|",UK: Fox HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79091
-#EXTINF:0 tvg-id="GOLD.uk" group-title="|IE| GENERAL |HD|",UK: Gold
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79092
-#EXTINF:0 tvg-id="H2.uk" group-title="|IE| GENERAL |HD|",UK: H2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79093
-#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="|IE| GENERAL |HD|",UK: Horror Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79094
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="|IE| GENERAL |HD|",UK: ITV HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79095
-#EXTINF:0 tvg-id="ITV2.uk" group-title="|IE| GENERAL |HD|",UK: ITV2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79096
-#EXTINF:0 tvg-id="ITV3.uk" group-title="|IE| GENERAL |HD|",UK: ITV3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79097
-#EXTINF:0 tvg-id="ITV4.uk" group-title="|IE| GENERAL |HD|",UK: ITV4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79098
-#EXTINF:0 tvg-id="More4.uk" group-title="|IE| GENERAL |HD|",UK: More 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79099
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Quest HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79100
-#EXTINF:0 tvg-id="S4C.uk" group-title="|IE| GENERAL |HD|",UK: S4C
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79101
-#EXTINF:0 tvg-id="Sky1.uk" group-title="|IE| GENERAL |HD|",UK: Sky 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79102
-#EXTINF:0 tvg-id="Sky2.uk" group-title="|IE| GENERAL |HD|",UK: Sky 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79103
-#EXTINF:0 tvg-id="SkyLiving.uk" group-title="|IE| GENERAL |HD|",UK: Sky Living HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79104
-#EXTINF:0 tvg-id="Sky2.uk" group-title="|IE| GENERAL |HD|",UK: Sky Two
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79105
-#EXTINF:0 tvg-id="TG4.ie" group-title="|IE| GENERAL |HD|",UK: TG4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79106
-#EXTINF:0 tvg-id="TLC.uk" group-title="|IE| GENERAL |HD|",UK: TLC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79107
-#EXTINF:0 tvg-id="TLC.uk" group-title="|IE| GENERAL |HD|",UK: TLC HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79108
-#EXTINF:0 tvg-id="Universal.uk" group-title="|IE| GENERAL |HD|",UK: Universal HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79109
-#EXTINF:0 tvg-id="W.uk" group-title="|IE| GENERAL |HD|",UK: W HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79110
-#EXTINF:0 tvg-id="MUTV.uk" group-title="|IE| GENERAL |HD|",UK: MUTV HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79111
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sony Movies Action
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79112
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="|IE| GENERAL |HD|",UK: Blaze
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79113
-#EXTINF:0 tvg-id="VirginMediaTwo.ie" group-title="|IE| GENERAL |HD|",UK: 3E
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79114
-#EXTINF:0 tvg-id="VirginMediaTwo.ie" group-title="|IE| GENERAL |HD|",UK: 3E HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79115
-#EXTINF:0 tvg-id="BET.uk" group-title="|IE| GENERAL |HD|",UK: BET
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79116
-#EXTINF:0 tvg-id="CreateCraft.uk" group-title="|IE| GENERAL |HD|",UK: Create & Craft
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79117
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Create & Craft UK
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79118
-#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="|IE| GENERAL |HD|",UK: DMAX
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79119
-#EXTINF:0 tvg-id="GOLD.uk" group-title="|IE| GENERAL |HD|",UK: GOLD HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79120
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="|IE| GENERAL |HD|",UK: Lifetime
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79121
-#EXTINF:0 tvg-id="LondonLive.uk" group-title="|IE| GENERAL |HD|",UK: London Live
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79122
-#EXTINF:0 tvg-id="QVC.uk" group-title="|IE| GENERAL |HD|",UK: QVC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79123
-#EXTINF:0 tvg-id="QVCBeauty.uk" group-title="|IE| GENERAL |HD|",UK: QVC Beauty
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79124
-#EXTINF:0 tvg-id="QVCExtra.uk" group-title="|IE| GENERAL |HD|",UK: QVC Extra
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79125
-#EXTINF:0 tvg-id="QVCStyle.uk" group-title="|IE| GENERAL |HD|",UK: QVC Style
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79126
-#EXTINF:0 tvg-id="QuestRed.uk" group-title="|IE| GENERAL |HD|",UK: Quest Red
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79127
-#EXTINF:0 tvg-id="S4C.uk" group-title="|IE| GENERAL |HD|",UK: S4C FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79128
-#EXTINF:0 tvg-id="Sky1.uk" group-title="|IE| GENERAL |HD|",UK: Sky One
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79129
-#EXTINF:0 tvg-id="TruTV.uk" group-title="|IE| GENERAL |HD|",UK: Tru TV HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79130
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Star GOLD UKA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79131
-#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="|IE| GENERAL |HD|",UK | LFC TV FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79132
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | LFC TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79133
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="|IE| GENERAL |HD|",Food Network UK
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79134
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="|IE| GENERAL |HD|",UK | ITV 1 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79135
-#EXTINF:0 tvg-id="Channel4.uk" group-title="|IE| GENERAL |HD|",UK | Channel 4 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79136
-#EXTINF:0 tvg-id="Channel5.uk" group-title="|IE| GENERAL |HD|",UK | Channel 5 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79137
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | ITV BE UHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79138
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK | VICELAND
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79139
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: SKY WITNESS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79140
-#EXTINF:0 tvg-id="ComedyCentralExtra.uk" group-title="|IE| GENERAL |HD|",UK: Comedy Central Extra
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79141
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: COVID-19 Updates
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79142
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="|IE| GENERAL |HD|",UK: ITV LONDON
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79143
-#EXTINF:0 tvg-id="CNBC.uk" group-title="|IE| GENERAL |HD|",UK: CNBC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79144
-#EXTINF:0 tvg-id="CNN.nws" group-title="|IE| GENERAL |HD|",UK: CNN HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79145
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-N: Al Jazeera English HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79146
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: AMC | HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79147
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BET | SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79148
-#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="|IE| GENERAL |HD|",UK: DAVE JA VU
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79149
-#EXTINF:0 tvg-id="Investigation.uk" group-title="|IE| GENERAL |HD|",UK: ID
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79150
-#EXTINF:0 tvg-id="KissTV.uk" group-title="|IE| GENERAL |HD|",UK: Kiss TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79151
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: QVC 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79152
-#EXTINF:0 tvg-id="GOLDPlus1.uk" group-title="|IE| GENERAL |HD|",UK: Gold +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79153
-#EXTINF:0 tvg-id="TCM.uk" group-title="|IE| GENERAL |HD|",UK: TCM
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79154
-#EXTINF:0 tvg-id="W.uk" group-title="|IE| GENERAL |HD|",UK: Watch
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79155
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: WATCH FHD (D)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79156
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MTA URDU
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79157
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: ITV 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79158
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: ITV 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79159
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: ITV 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79160
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: ITV 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79161
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: UNIVERSAL
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79162
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SYFY
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79163
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SPIKE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79164
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Horror Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79165
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: MORE 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79166
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: 5 USA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79167
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: CBS DRAMA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79168
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: BLAZE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79169
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: E! ENTERTAINMENT
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79170
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: ROMEDY NOW
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79171
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: TLC
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79172
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: TG 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79173
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Quest
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79174
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: More4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79175
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: KISS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79176
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Food Network
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79177
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: E4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79178
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: DRAMA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79179
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Channel 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79180
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Channel 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79181
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: BET STAR
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79182
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 01 -
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79183
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 02 -
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79184
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 03 -
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79185
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 04 -
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79186
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 01:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79187
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 02:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79188
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 03:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79189
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 04:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79190
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 05:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79191
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 06:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79192
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 07:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79193
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 08:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79194
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 09:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79195
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL 10:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79196
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 1:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79197
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 2:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79198
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 3:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79199
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 4:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79200
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 5:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79201
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 6:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79202
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 7:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79203
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 8:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79204
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 9:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79205
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 10:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79206
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 11:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79207
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 12:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79208
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 13:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79209
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 14
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79210
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 15
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79211
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 16
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79212
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 17
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79213
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 18
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79214
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 19
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79215
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 20
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79216
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 21
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79217
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 22
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79218
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 23
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79219
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 24
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79220
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 25:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79221
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 26:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79222
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 27:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79223
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 28:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79224
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 29:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79225
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 31:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79226
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 32:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79227
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 33:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79228
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 34:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79229
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 35:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79230
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 36:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79231
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 37:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79232
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 38:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79233
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 39:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79234
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 40:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79235
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 41
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79236
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 42:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79237
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 43:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79238
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 44:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79239
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 45:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79240
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 46:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79241
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 47:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79242
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 48:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79243
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 49:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79244
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SOCCER EVENT 50:
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79245
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: NOW Sports 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79246
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: NOW Sports 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79247
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: NOW Sports 3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79248
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: NOW Sports 4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79249
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: NOW Sports 5 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79250
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: NOW Sports 6 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79251
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: DAZN 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79252
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: DAZN 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79253
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: DAZN 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79254
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: DAZN 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79255
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: DAZN 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79256
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: DAZN 6
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79257
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Astro SuperSport 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79258
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Astro SuperSport 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79259
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Astro SuperSport 3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79260
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Astro SuperSport 4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79261
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Optus Sport 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79262
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Optus Sport 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79263
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Optus Sport 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79264
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Optus Sport 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79265
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Optus Sport 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79266
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Optus Sport 6
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79267
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: Optus Sport 7
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79268
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: SparkSports 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79269
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: SparkSports 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79270
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: SparkSports 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79271
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: SparkSports 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79272
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: SparkSports 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79273
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",EPL: SparkSports 6
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79274
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Spark Sports 07 (Events|EPL)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79275
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Spark Sports 08 (Events|EPL)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79276
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Spark Sports 09 (Events|EPL)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79277
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",Spark Sports 10 (Events|EPL)
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79278
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79279
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79280
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79281
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79282
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79283
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79284
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79285
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 4 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79286
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79287
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store 5 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79288
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store Pre Order 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79289
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store Pre Order 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79290
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store Pre Order Kids
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79291
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Store Pre Order Kids HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79292
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY STORE 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79293
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY STORE 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79294
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY STORE 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79295
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sport News SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79296
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Sport Premier League SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79297
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Action
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79298
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Action HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79299
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Action SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79300
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Arena
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79301
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Arena HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79302
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Cricket FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79303
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Cricket SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79304
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports F1 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79305
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports F1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79306
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Football
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79307
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Football HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79308
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Golf SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79309
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Main Event HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79310
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Main Event SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79311
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Mix HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79312
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports News
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79313
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Premier League
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79314
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Premier League HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79315
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Sports Racing
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79316
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sport 1 SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79317
-#EXTINF:0 tvg-id="SkySports4.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS 4 FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79318
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS ACTION FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79319
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS ARENA FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79320
-#EXTINF:0 tvg-id="SkySpBoxOff.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS BOX OFFICE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79321
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS GOLF HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79322
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS CRICKET
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79323
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS F1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79324
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS GOLF
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79325
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="|IE| GENERAL |HD|",UK: SKY SPORTS MAIN EVENT
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79326
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Racing TV | UHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79327
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Racing TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79328
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY Sports News
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79329
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY Sports Football
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79330
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY Sports Premier League
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79331
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY Sports Mix
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79332
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY Sports Golf
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79333
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: SKY Sports F1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79334
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: Sky Sports Racing
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79335
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",SKY MLB LIVE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79336
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="|IE| GENERAL |HD|",Sky Sport Moto GP HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79337
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports Cricket HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79338
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="|IE| GENERAL |HD|",UK: Sky Sports News HQ HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79339
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Paramount HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79340
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Action HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79341
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Comedy HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79342
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Family HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79343
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="|IE| GENERAL |HD|",UK: SKY Cinema Greats HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79344
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Premier
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79345
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Select HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79346
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Thriller HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79347
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Action & Adventure
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79348
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Action & Adventure FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79349
-#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Crime & Thriller HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79350
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Drama & Romance
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79351
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Drama & Romance HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79352
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Family
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79353
-#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Hits FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79354
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Premiere
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79355
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Premiere HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79356
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Sci-Fi & Horror HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79357
-#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="|IE| GENERAL |HD|",UK: Sky Movies Comedy FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79358
-#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="|IE| GENERAL |HD|",UK: Sky Movies Drama & Romance FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79359
-#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="|IE| GENERAL |HD|",UK: Sky Movies Family FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79360
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="|IE| GENERAL |HD|",UK: Sky Movies Modern Greats FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79361
-#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="|IE| GENERAL |HD|",UK: Sky Movies Sci-Fi & Horror FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79362
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="|IE| GENERAL |HD|",UK: Sky Movies Select FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79363
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="|IE| GENERAL |HD|",SKY CINEMA ACTION FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79364
-#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="|IE| GENERAL |HD|",SKY CINEMA PREMIER FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79365
-#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="|IE| GENERAL |HD|",SKY CINEMA SELECT FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79366
-#EXTINF:0 tvg-id="TrueMovies.uk" group-title="|IE| GENERAL |HD|",True Movies
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79367
-#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Disney
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79368
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Greats
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79369
-#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="|IE| GENERAL |HD|",UK: Sky Cinema Action & Adventure HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79370
-#EXTINF:0 tvg-id="SkyBrits.uk" group-title="|IE| GENERAL |HD|",UK : Sky Cinema Superhero FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79371
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="|IE| GENERAL |HD|",UK: Cartoon Network HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79372
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="|IE| GENERAL |HD|",UK: CBeebies HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79373
-#EXTINF:0 tvg-id="Disney.uk" group-title="|IE| GENERAL |HD|",UK: Disney Channel HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79374
-#EXTINF:0 tvg-id="DisneyXD.uk" group-title="|IE| GENERAL |HD|",UK: Disney XD HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79375
-#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="|IE| GENERAL |HD|",UK: Nick Jr Too
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79376
-#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="|IE| GENERAL |HD|",UK: Nick Jr Peppa
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79377
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: POP Max +1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79378
-#EXTINF:0 tvg-id="tinypop.uk" group-title="|IE| GENERAL |HD|",UK: Tiny POP
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79379
-#EXTINF:0 tvg-id="Disney.uk" group-title="|IE| GENERAL |HD|",UK: Disney Channel SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79380
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: RTE One | SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79381
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="|IE| GENERAL |HD|",UK: Baby TV SD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79382
-#EXTINF:0 tvg-id="pop.uk" group-title="|IE| GENERAL |HD|",UK: POP
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79383
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BBC CBESE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79384
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: DUCK TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79385
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Baby TV HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79386
-#EXTINF:0 tvg-id="RTEjr.uk" group-title="|IE| GENERAL |HD|",UK: RTE JR
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79387
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Nick Jr Too HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79388
-#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="|IE| GENERAL |HD|",UK: Disney Junior
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79389
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Now 90s
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79390
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: 4Music UK
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79391
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: MTV Classic
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79392
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: MTV BASE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79393
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | HIT LIST
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79394
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | HIP HOP & R&B
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79395
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | TODAYS COUNTRY CMA AWARDS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79396
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | 90\'S
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79397
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | TEEN BEATS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79398
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | DANCE EDM
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79399
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | Y2K
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79400
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | BRITS AND HITS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79401
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | POP LATINO
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79402
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | R&B SOUL
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79403
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | RAP 2K
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79404
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | THROWBACK JAMZ
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79405
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | RAP
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79406
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | MUSICA URBANA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79407
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | LATINO
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79408
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | TROPICALS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79409
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | ALTERNATIVE
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79410
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | KIDZ ONLY
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79411
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | KIDZ BOP
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79412
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",MC | TODDLER TUNES
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79413
-#EXTINF:0 tvg-id="BoxHits.uk" group-title="|IE| GENERAL |HD|",UK : BOX HITS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79414
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="|IE| GENERAL |HD|",UK: BoxNation HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79415
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79416
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 3 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79417
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79418
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79419
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79420
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 5
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79421
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 6
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79422
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 7
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79423
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 8
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79424
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 9
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79425
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: BOX OFFICE 10
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79426
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: COLORS RISHTEY
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79427
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Geo TV FHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79428
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="|IE| GENERAL |HD|",UK: Sony Channel
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79429
-#EXTINF:0 tvg-id="SONYSAB.uk" group-title="|IE| GENERAL |HD|",UK: SONY SAB
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79430
-#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="|IE| GENERAL |HD|",UK: SONY TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79431
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sony TV HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79432
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Sony TV UHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79433
-#EXTINF:0 tvg-id="StarBharat.uk" group-title="|IE| GENERAL |HD|",UK: Star Bharat
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79434
-#EXTINF:0 tvg-id="StarGold.uk" group-title="|IE| GENERAL |HD|",UK: STAR GOLD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79435
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: STAR GOLD HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79436
-#EXTINF:0 tvg-id="StarPlus.uk" group-title="|IE| GENERAL |HD|",UK: Star Plus
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79437
-#EXTINF:0 tvg-id="StarPlus.uk" group-title="|IE| GENERAL |HD|",UK: STAR PLUS HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79438
-#EXTINF:0 tvg-id="UTV.uk" group-title="|IE| GENERAL |HD|",UK: UTV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79439
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: UTV UHD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79440
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: ZEE AFLAM
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79441
-#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="|IE| GENERAL |HD|",UK: ZEE CINEMA
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79442
-#EXTINF:0 tvg-id="ZeeTV.uk" group-title="|IE| GENERAL |HD|",UK: Zee TV
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79443
-#EXTINF:0 tvg-id="TG4.ie" group-title="|IE| GENERAL |HD|",IRE | TG4
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79444
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",IRE | VIRGIN MEDIA 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79445
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",IRE | VIRGIN MEDIA 3
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79446
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",IRE: RTE JnR
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79447
-#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="|IE| GENERAL |HD|",IRE: RTE NEWS
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79448
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",IRE: RTE News HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79449
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",IRE: RTE ONE HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79450
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: RTE One
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79451
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK-NEW: RTE Two
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79452
-#EXTINF:0 tvg-id="eirSport1.ie" group-title="|IE| GENERAL |HD|",UK: Eir Sport 1
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79453
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Eir Sport 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79454
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="|IE| GENERAL |HD|",UK: Eir Sport 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79455
-#EXTINF:0 tvg-id="eirSport2.ie" group-title="|IE| GENERAL |HD|",UK: Eir Sport 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79456
-#EXTINF:0 tvg-id="RTE1.ie" group-title="|IE| GENERAL |HD|",UK: RTE 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79457
-#EXTINF:0 tvg-id="RTE2.ie" group-title="|IE| GENERAL |HD|",UK: RTE 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79458
-#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="|IE| GENERAL |HD|",UK: RTE News
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79459
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Virgin Media 1 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79460
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: Virgin Media 2 HD
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79461
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",UK: VIRGIN SPORT IRELAND
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79462
-#EXTINF:0 tvg-id="ext" group-title="|IE| GENERAL |HD|",IRE | VIRGIN MEDIA 2
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79463
-#EXTINF:0 tvg-id="RTEjr.uk" group-title="|IE| GENERAL |HD|",RTE JR
-http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/79464
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",##### |TR| SPOR #####
+http://185.71.64.167:80/477805767143/477805767143/80399
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 1 HD
+http://185.71.64.167:80/477805767143/477805767143/80398
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 2 HD
+http://185.71.64.167:80/477805767143/477805767143/80397
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 3 HD
+http://185.71.64.167:80/477805767143/477805767143/80396
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 4 HD
+http://185.71.64.167:80/477805767143/477805767143/80395
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEINSPORTS 1 SD
+http://185.71.64.167:80/477805767143/477805767143/80394
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEINSPORTS 1 HD (50fps 1920x1080)
+http://185.71.64.167:80/477805767143/477805767143/80393
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 1 UHD
+http://185.71.64.167:80/477805767143/477805767143/80392
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 2 UHD
+http://185.71.64.167:80/477805767143/477805767143/80391
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 3 UHD
+http://185.71.64.167:80/477805767143/477805767143/80390
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 4 UHD
+http://185.71.64.167:80/477805767143/477805767143/80389
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN MAX 1 HD
+http://185.71.64.167:80/477805767143/477805767143/80388
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN MAX 2 HD
+http://185.71.64.167:80/477805767143/477805767143/80387
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS HABER UHD
+http://185.71.64.167:80/477805767143/477805767143/80386
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SPOR SMART HD
+http://185.71.64.167:80/477805767143/477805767143/80385
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="|TR| SPOR",|TR| SPORTS TV
+http://185.71.64.167:80/477805767143/477805767143/80384
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SARAN SPORT HD
+http://185.71.64.167:80/477805767143/477805767143/80383
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SARAN SPORT 2 HD
+http://185.71.64.167:80/477805767143/477805767143/80382
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR UHD
+http://185.71.64.167:80/477805767143/477805767143/80381
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 1 HD
+http://185.71.64.167:80/477805767143/477805767143/80380
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 2 HD
+http://185.71.64.167:80/477805767143/477805767143/80379
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 3 HD
+http://185.71.64.167:80/477805767143/477805767143/80378
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TAY TV HD PLUS
+http://185.71.64.167:80/477805767143/477805767143/80377
+#EXTINF:0 tvg-id="TRT3.tr" group-title="|TR| SPOR",|TR| TRT SPOR HD
+http://185.71.64.167:80/477805767143/477805767143/80376
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TRT SPOR UHD
+http://185.71.64.167:80/477805767143/477805767143/80375
+#EXTINF:0 tvg-id="ASpor.tr" group-title="|TR| SPOR",|TR| A SPOR HD
+http://185.71.64.167:80/477805767143/477805767143/80374
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| A SPOR UHD
+http://185.71.64.167:80/477805767143/477805767143/80373
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TRT SPOR 2 HD+
+http://185.71.64.167:80/477805767143/477805767143/80372
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="|TR| SPOR",|TR| GS TV
+http://185.71.64.167:80/477805767143/477805767143/80371
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| FB TV HD PLUS
+http://185.71.64.167:80/477805767143/477805767143/80370
+#EXTINF:0 tvg-id="BJKTV.tr" group-title="|TR| SPOR",|TR| BJK TV
+http://185.71.64.167:80/477805767143/477805767143/80369
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="|TR| SPOR",|TR| EUROSPORT 1 HD
+http://185.71.64.167:80/477805767143/477805767143/80368
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="|TR| SPOR",|TR| EUROSPORT 2 HD
+http://185.71.64.167:80/477805767143/477805767143/80367
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| NBA HD
+http://185.71.64.167:80/477805767143/477805767143/80366
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| FIGHT BOX HD
+http://185.71.64.167:80/477805767143/477805767143/80365
+#EXTINF:0 tvg-id="TRT1.tr" group-title="|TR| SPOR",TR: TRT 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35182
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR : TRT 1
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35183
+#EXTINF:0 tvg-id="ATV.tr" group-title="|TR| SPOR",TR: ATV Avrupa
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35184
+#EXTINF:0 tvg-id="ATV.tr" group-title="|TR| SPOR",TR: ATV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35185
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR : ATV
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35186
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Euro Star
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35187
+#EXTINF:0 tvg-id="StarHD.tr" group-title="|TR| SPOR",TR: Star HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35188
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR : Star TV
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35189
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="|TR| SPOR",TR: Show HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35190
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR : Show TV
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35191
+#EXTINF:0 tvg-id="ShowTurk.tr" group-title="|TR| SPOR",TR: Show Turk
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35192
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Euro D
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35193
+#EXTINF:0 tvg-id="KanalD.tr" group-title="|TR| SPOR",TR: Kanal D HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35194
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR : Kanal D
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35195
+#EXTINF:0 tvg-id="Fox.tr" group-title="|TR| SPOR",TR: Fox FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35196
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR : Fox
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35197
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="|TR| SPOR",TR: Kanal 7 Avrupa
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35198
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="|TR| SPOR",TR: Kanal 7 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35199
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="|TR| SPOR",TR: Kanal 7 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35200
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Beyaz HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35201
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="|TR| SPOR",TR: Beyaz TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35202
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="|TR| SPOR",TR: Beyaz TV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35203
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR : TV 8
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35204
+#EXTINF:0 tvg-id="TV8.tr" group-title="|TR| SPOR",TR: TV8 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35205
+#EXTINF:0 tvg-id="TV85.tr" group-title="|TR| SPOR",TR: TV 8.5
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35206
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: ATV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35207
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: ATV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35208
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEYAZ TV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35209
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEYAZTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35210
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: FOX TV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35211
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: FOXTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35212
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: KANAL 7 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35213
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: KANAL D FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35214
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: KANAL D HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35215
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: KANAL7 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35216
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: SHOW TV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35217
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: SHOWTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35218
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: STAR TV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35219
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: STARTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35220
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TRT 1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35221
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TRT 2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35222
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TRT 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35223
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TRT TURK HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35224
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TRT 4K UHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35225
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TRT1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35226
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TV 8 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35227
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TV 8.5 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35228
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TV8 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35229
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TV8.5 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35230
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: ULUSAL TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35231
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: 360 TV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35232
+#EXTINF:0 tvg-id="A2.tr" group-title="|TR| SPOR",TR: A2
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35233
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: A2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35234
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: A2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35235
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: 360 TV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35236
+#EXTINF:0 tvg-id="TV2.tr" group-title="|TR| SPOR",TR: TEVE 2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35237
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TEVE 2
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35238
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",EKIM 2020 SALONDA NE VAR
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35239
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: ASPOR HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35240
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORT 1 (480P)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35241
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 1 HD ( MACTA FHD )
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35242
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORT HABER HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35243
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEiN SPORT MAX-1 HD  (720P---PLAY)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35244
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEiN SPORT MAX-2 HD  (720P---PLAY)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35245
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEiN SPORT-1 HD  (720P---PLAY)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35246
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEiN SPORT-2 HD  (720P---PLAY)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35247
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEiN SPORT-3 HD  (720P---PLAY)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35248
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEiN SPORT-4 HD  (720P---PLAY)
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35249
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35250
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35251
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 1 HD ( 50FPS )
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35252
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35253
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35254
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 3 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35255
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 3 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35256
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 4 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35257
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS 4 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35258
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS MAX 1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35259
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS MAX 1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35260
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS MAX 2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35261
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: BEIN SPORTS MAX 2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35262
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: EUROSPORT1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35263
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: EUROSPORT2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35264
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: FBTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35265
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: GSTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35266
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: NBA TV FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35267
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: S-SPORT 1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35268
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: S-SPORT 2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35269
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: S-SPORT HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35270
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: SPOR SMART FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35271
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: SPOR SMART HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35272
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: SPORTSTV HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35273
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TiViBUSPOR 1 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35274
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TiViBUSPOR 2 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35275
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TiViBUSPOR 3 FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35276
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TIVIBUSPOR-1 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35277
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TIVIBUSPOR-2 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35278
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TIVIBUSPOR-3 HD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35279
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",VIP TR: TRT SPOR FHD
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35280
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TRT SPOR 2
+http://supertv.live:80/mZ82PN2p/gM9Nyc4x/35281
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",##### |TR| SPOR #####
+http://rv.therevenge.co:80/5172668317/7249490798/80399
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 1 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80398
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 2 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80397
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 3 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80396
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 4 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80395
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEINSPORTS 1 SD
+http://rv.therevenge.co:80/5172668317/7249490798/80394
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEINSPORTS 1 HD (50fps 1920x1080)
+http://rv.therevenge.co:80/5172668317/7249490798/80393
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 1 UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80392
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 2 UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80391
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 3 UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80390
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 4 UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80389
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN MAX 1 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80388
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN MAX 2 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80387
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS HABER UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80386
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SPOR SMART HD
+http://rv.therevenge.co:80/5172668317/7249490798/80385
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="|TR| SPOR",|TR| SPORTS TV
+http://rv.therevenge.co:80/5172668317/7249490798/80384
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SARAN SPORT HD
+http://rv.therevenge.co:80/5172668317/7249490798/80383
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SARAN SPORT 2 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80382
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80381
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 1 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80380
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 2 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80379
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 3 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80378
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TAY TV HD PLUS
+http://rv.therevenge.co:80/5172668317/7249490798/80377
+#EXTINF:0 tvg-id="TRT3.tr" group-title="|TR| SPOR",|TR| TRT SPOR HD
+http://rv.therevenge.co:80/5172668317/7249490798/80376
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TRT SPOR UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80375
+#EXTINF:0 tvg-id="ASpor.tr" group-title="|TR| SPOR",|TR| A SPOR HD
+http://rv.therevenge.co:80/5172668317/7249490798/80374
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| A SPOR UHD
+http://rv.therevenge.co:80/5172668317/7249490798/80373
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TRT SPOR 2 HD+
+http://rv.therevenge.co:80/5172668317/7249490798/80372
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="|TR| SPOR",|TR| GS TV
+http://rv.therevenge.co:80/5172668317/7249490798/80371
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| FB TV HD PLUS
+http://rv.therevenge.co:80/5172668317/7249490798/80370
+#EXTINF:0 tvg-id="BJKTV.tr" group-title="|TR| SPOR",|TR| BJK TV
+http://rv.therevenge.co:80/5172668317/7249490798/80369
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="|TR| SPOR",|TR| EUROSPORT 1 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80368
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="|TR| SPOR",|TR| EUROSPORT 2 HD
+http://rv.therevenge.co:80/5172668317/7249490798/80367
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| NBA HD
+http://rv.therevenge.co:80/5172668317/7249490798/80366
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| FIGHT BOX HD
+http://rv.therevenge.co:80/5172668317/7249490798/80365
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="|TR| SPOR",TR: beIN SPORTS 1 SD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83909
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 1 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83910
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 1 FHD H265
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83911
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 1 FHD 50FPS
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83912
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 1 FHD YEDEK
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83913
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 1 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83914
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="|TR| SPOR",TR: beIN SPORTS 1 HQ
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83915
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 2 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83916
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 2 FHD YEDEK
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83917
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 2 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83918
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="|TR| SPOR",TR: beIN SPORTS 2 SD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83919
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 3 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83920
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 3 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83921
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="|TR| SPOR",TR: beIN SPORTS 3 SD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83922
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 4 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83923
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 4 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83924
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="|TR| SPOR",TR: beIN SPORTS 4 SD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83925
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 1 MAX HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83926
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 1 MAX FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83927
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 2 MAX HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83928
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN SPORTS 2 MAX FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83929
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TRT SPOR 2
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83930
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS HABER HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83931
+#EXTINF:0 tvg-id="SSport.tr" group-title="|TR| SPOR",TR: S SPORT FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83932
+#EXTINF:0 tvg-id="SSport.tr" group-title="|TR| SPOR",TR: S SPORT HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83933
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: S SPORT 2 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83934
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: S SPORT PLUS
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83935
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SMART SPOR FHD HVEC
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83936
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SMART SPOR HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83937
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SMART SPOR
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83938
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SMART SPOR 2 (DSMART 82.KANAL)
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83939
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBU SPOR 1 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83940
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBU SPOR 2 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83941
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBU SPOR 3 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83942
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 1 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83943
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 2 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83944
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 3 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83945
+#EXTINF:0 tvg-id="TRT3.tr" group-title="|TR| SPOR",TR: TRT SPOR FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83946
+#EXTINF:0 tvg-id="TRT3.tr" group-title="|TR| SPOR",TR: TRT SPOR HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83947
+#EXTINF:0 tvg-id="ASpor.tr" group-title="|TR| SPOR",TR: A SPOR FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83948
+#EXTINF:0 tvg-id="ASpor.tr" group-title="|TR| SPOR",TR: A SPOR HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83949
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="|TR| SPOR",TR: SPORTS TV HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83950
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="|TR| SPOR",TR: SPORTS TV
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83951
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TAY TV
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83952
+#EXTINF:0 tvg-id="FBTV.tr" group-title="|TR| SPOR",TR: FB TV HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83953
+#EXTINF:0 tvg-id="TJKTV.tr" group-title="|TR| SPOR",TR: TJK TV
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83954
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="|TR| SPOR",TR: EUROSPORT 1 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83955
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="|TR| SPOR",TR: EUROSPORT 2 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83956
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="|TR| SPOR",TR: EUROSPORT 2
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/83957
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR:  BEIN SPORTS 1  Hvec
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61677
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 (1080p) +
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61678
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 (1080p)
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61679
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 (720p) +
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61680
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="|TR| SPOR",TR: BEIN SPORTS 1 (720p)
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61681
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 SD/HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61682
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 2 FHD VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61683
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 2 H265 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61684
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 2 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61685
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 3 FHD VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61686
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 3 H265 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61687
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 3 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61688
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 4 FHD VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61689
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 4 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61690
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS MAX 1 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61691
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS MAX 2 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61692
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS Max 1 VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61693
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS MAX 2 VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61694
+#EXTINF:0 tvg-id="TivibuSpor1.tr" group-title="|TR| SPOR",TR: TIVIBU SPOR 1
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61695
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 1 VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61696
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TiViBU SPOR 1 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61697
+#EXTINF:0 tvg-id="TivibuSpor2.tr" group-title="|TR| SPOR",TR: TIVIBU SPOR 2
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61698
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 2 VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61699
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TiViBU SPOR 2 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61700
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 3 VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61701
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TiViBU SPOR 3 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61702
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SPOR SMART  VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61703
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SPOR SMART LOCAL TR/EN
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61704
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: S SPORT VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61705
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: S SPORT LOCAL TR/EN
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61706
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: S SPORT 2 VIP
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61707
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: S SPORT 2 Local
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61708
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: EUROSPORT 1 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61709
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: EUROSPORT 2 LOCAL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61710
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NBA TV
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61711
+#EXTINF:0 tvg-id="ASpor.tr" group-title="|TR| SPOR",TR: A SPOR
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61712
+#EXTINF:0 tvg-id="TRT3.tr" group-title="|TR| SPOR",TR: TRT SPOR
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61713
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="|TR| SPOR",TR: GS TV
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61714
+#EXTINF:0 tvg-id="FBTV.tr" group-title="|TR| SPOR",TR: FB TV
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61715
+#EXTINF:0 tvg-id="Fox.tr" group-title="|TR| SPOR",TR: FOX TV FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61716
+#EXTINF:0 tvg-id="TV8.tr" group-title="|TR| SPOR",TR: TV 8 FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61718
+#EXTINF:0 tvg-id="TV8.tr" group-title="|TR| SPOR",TR: TV 8 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61719
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TV 8.5 HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61720
+#EXTINF:0 tvg-id="ATV.tr" group-title="|TR| SPOR",TR: ATV FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61721
+#EXTINF:0 tvg-id="ATV.tr" group-title="|TR| SPOR",TR: ATV HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61722
+#EXTINF:0 tvg-id="Start.tr" group-title="|TR| SPOR",TR: STAR TV FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61723
+#EXTINF:0 tvg-id="Start.tr" group-title="|TR| SPOR",TR: STAR TV HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61724
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="|TR| SPOR",TR: SHOW TV FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61725
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="|TR| SPOR",TR: SHOW TV HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61726
+#EXTINF:0 tvg-id="KanalD.tr" group-title="|TR| SPOR",TR: KANAL D FHD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/61727
+#EXTINF:0 tvg-id="KanalD.tr" group-title="|TR| SPOR",TR: KANAL D HD
