@@ -1,4 +1,1063 @@
 #EXTM3U
+#EXTINF:0 tvg-id="tv8-lt" group-title="Channels",TV8 HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/473
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV8.5
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/7405
+#EXTINF:0 tvg-id="Fox.tr" group-title="Channels",FOX TV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1608
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/477
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1610
+#EXTINF:0 tvg-id="Start.tr" group-title="Channels",STAR TV FHD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/476
+#EXTINF:0 tvg-id="Start.tr" group-title="Channels",Star TV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1607
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",Kanal D HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/7449
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",TR: Kanal D
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1611
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",Show TV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1609
+#EXTINF:0 tvg-id="ext" group-title="Channels",IYI TURK HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/54727
+#EXTINF:0 tvg-id="ntv" group-title="Channels",NTV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/726
+#EXTINF:0 tvg-id="ntv" group-title="Channels",NTV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1614
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",Kanal 7 HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1612
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="Channels",Beyaz TV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1616
+#EXTINF:0 tvg-id="TurkmaxGurme.tr" group-title="Channels",BEIN GURME
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/47412
+#EXTINF:0 tvg-id="DizimaxVice.tr" group-title="Channels",BEIN SERIES VICE
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/47415
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:EUROSPORT 1 HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/47418
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="Channels",TR: EUROSPORT 2 HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/47419
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports MAXX 1
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/47416
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports MAXX 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/47417
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",A Spor HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1620
+#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",Aspor
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/866
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="Channels",GS TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1622
+#EXTINF:0 tvg-id="FBTV.tr" group-title="Channels",FB TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1621
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports MAXX 1
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3435
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRTSPOR
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/588
+#EXTINF:0 tvg-id="TRT3.tr" group-title="Channels",TRT Spor HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1619
+#EXTINF:0 tvg-id="TRT1HD.tr" group-title="Channels",TR: TRT1 HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/487
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="Channels",TR: TRT Turk
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/753
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Channels",TR: TRT HABER HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/486
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="Channels",TRT Haber HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1617
+#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="Channels",TR: TRT Muzik
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/590
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT ccocuk HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/638
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="Channels",TR: TRT AVAZ
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3445
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TRT3 TBMM TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3446
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="Channels",CNN TURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/728
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Animal Planet HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45840
+#EXTINF:0 tvg-id="History.tr" group-title="Channels",TR: History HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45838
+#EXTINF:0 tvg-id="Discovery.tr" group-title="Channels",TR: Discovery Channel HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45841
+#EXTINF:0 tvg-id="DiscoveryScience.tr" group-title="Channels",TR: Discovery Science HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45842
+#EXTINF:0 tvg-id="NatGeoPeople.tr" group-title="Channels",TR: Nat Geo People HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45845
+#EXTINF:0 tvg-id="NatGeoWild.tr" group-title="Channels",TR: Nat Geo Wild HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45843
+#EXTINF:0 tvg-id="NatGeoHD.tr" group-title="Channels",TR: National Geographic HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45844
+#EXTINF:0 tvg-id="KralTV.tu" group-title="Channels",Kral TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/982
+#EXTINF:0 tvg-id="KralPop.tr" group-title="Channels",Kral Pop Tv
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1628
+#EXTINF:0 tvg-id="AHaber.tr" group-title="Channels",A HABER
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/591
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Channels",HABERTURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/598
+#EXTINF:0 tvg-id="news24" group-title="Channels",24 TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/482
+#EXTINF:0 tvg-id="ntv" group-title="Channels",NTV HD Yedek
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1618
+#EXTINF:0 tvg-id="ext" group-title="Channels",POWER TURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/729
+#EXTINF:0 tvg-id="ext" group-title="Channels",Minika CCocuk
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/758
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="Channels",Minika Go
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/759
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: 360 TV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3434
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: BRTV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3439
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: ISTANBUL 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3442
+#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="Channels",TRT DIYANET
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46843
+#EXTINF:0 tvg-id="24.tr" group-title="Channels",TR: Kanal 24
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3433
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Kanal 26
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3429
+#EXTINF:0 tvg-id="SemerkandTV.tr" group-title="Channels",TR: Semerkand TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3438
+#EXTINF:0 tvg-id="Tv2.tr" group-title="Channels",TR: TV 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3431
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 4
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3432
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 41
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3599
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TV 52
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3598
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Show Max
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3591
+#EXTINF:0 tvg-id="360.tr" group-title="Channels",TR: Sky Turk 360
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3605
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: TGRT HABER HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3606
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="Channels",TRT BELGESEL HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46835
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Yaban TV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3607
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="Channels",TR: HALK TV SD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/3786
+#EXTINF:0 tvg-id="Salon1.tr" group-title="Channels",beIN Box Office 1
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45571
+#EXTINF:0 tvg-id="Salon2.tr" group-title="Channels",beIN Box Office 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45572
+#EXTINF:0 tvg-id="Salon3.tr" group-title="Channels",beIN Box Office 3
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/45573
+#EXTINF:0 tvg-id="Salon1.tr" group-title="Channels",SALON 1 HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/843
+#EXTINF:0 tvg-id="Salon3.tr" group-title="Channels",SALON 3 HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/849
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINESTAR TURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1019
+#EXTINF:0 tvg-id="A2.tr" group-title="Channels",TR: A2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/1025
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",DMAX
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46829
+#EXTINF:0 tvg-id="amedia2" group-title="Channels",A2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46831
+#EXTINF:0 tvg-id="CemTv.tr" group-title="Channels",CEM TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46832
+#EXTINF:0 tvg-id="bloomberg" group-title="Channels",BLOOMBERG
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46836
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="Channels",DA VINCI LEARNING HQ
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46837
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL HQ
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46840
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",BABY TV HQ
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46841
+#EXTINF:0 tvg-id="ext" group-title="Channels",LALEGUL TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46842
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 68
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46844
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="Channels",TGRT EU
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46846
+#EXTINF:0 tvg-id="ext" group-title="Channels",TBMM
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46848
+#EXTINF:0 tvg-id="DreamTurk.tr" group-title="Channels",Dream Turk
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/46850
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR: Tele 1
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/47488
+#EXTINF:0 tvg-id="TV2.tr" group-title="Channels",TR: TEVE 2 HD HQ
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49222
+#EXTINF:0 tvg-id="ext" group-title="Channels",A PARA
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49223
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="Channels",BLOOMBERG HT (HQ)
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49224
+#EXTINF:0 tvg-id="UlkeTV.tr" group-title="Channels",ULKE TV HD (HQ)
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49225
+#EXTINF:0 tvg-id="ext" group-title="Channels",HABER GLOBAL
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49226
+#EXTINF:0 tvg-id="ext" group-title="Channels",UCANKUS
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49228
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAT 7 TURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49229
+#EXTINF:0 tvg-id="ext" group-title="Channels",KON TV
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49231
+#EXTINF:0 tvg-id="ext" group-title="Channels",EKOTURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49232
+#EXTINF:0 tvg-id="ext" group-title="Channels",ERT ERZINCAN (HQ)
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49233
+#EXTINF:0 tvg-id="ext" group-title="Channels",ULUSAL (HQ)
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49234
+#EXTINF:0 tvg-id="ext" group-title="Channels",HISTORY TV HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49236
+#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL GEO PEOPLE (HQ)
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49238
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NATIONAL GEOGRAPHIC WILD HD+
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49239
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49247
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX TURK 1
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49249
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX TURK 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49250
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX AKSIYON 1
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49251
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX AKSIYON 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49252
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX ANIMASYON 1
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49253
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX ANIMASYON 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49254
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX KOMEDI
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49255
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX VIZYON
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49256
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX KORKU
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49257
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX YESILCAM
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49258
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZIOON PREMIER
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49259
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZIOON PREMIER 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49260
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZIOON AILE
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49261
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZIOON AILE 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49262
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIZIOON FESTIVAL
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49263
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX AKSIYON
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49264
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX PREMIER
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49265
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX AILE
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49266
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX TURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49267
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX ANIMASYON
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49268
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX GERILIM
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49269
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX YESILCAM
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49270
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILMBOX KEMAL SUNAL
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49271
+#EXTINF:0 tvg-id="MoviemaxTurk.tr" group-title="Channels",BEIN MOVIES TURK
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49272
+#EXTINF:0 tvg-id="MoviemaxStars.tr" group-title="Channels",BEIN MOVIES STARS
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49273
+#EXTINF:0 tvg-id="MoviemaxPremier2.tr" group-title="Channels",BEIN MOVIES PREMIER 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49274
+#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="Channels",BEIN MOVIES PREMIER
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49275
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="Channels",BEIN MOVIES FAMILY
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49276
+#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="Channels",BEIN MOVIES ACTION 2
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49277
+#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="Channels",BEIN MOVIES ACTION
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49278
+#EXTINF:0 tvg-id="DizimaxDrama.tr" group-title="Channels",BEIN SERIES DRAMA
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49279
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK JR TR
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49298
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRT 4K (FHD)
+http://gigaiptv.pro:25461/razmenausa/2XcIPAKg1j/49220
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TRT.Avaz
+http://mynetworks.info:80/ashraf333/333ashraf/4417
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TRT.Belgesel
+http://mynetworks.info:80/ashraf333/333ashraf/4434
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TRT.Diyanet
+http://mynetworks.info:80/ashraf333/333ashraf/4416
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TRT.Haber
+http://mynetworks.info:80/ashraf333/333ashraf/4471
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TRT.Muzik
+http://mynetworks.info:80/ashraf333/333ashraf/4433
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TRT.Sport
+http://mynetworks.info:80/ashraf333/333ashraf/4443
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TRT1
+http://mynetworks.info:80/ashraf333/333ashraf/4465
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TV24
+http://mynetworks.info:80/ashraf333/333ashraf/4470
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:TV360
+http://mynetworks.info:80/ashraf333/333ashraf/4415
+#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",TR:TV8
+http://mynetworks.info:80/ashraf333/333ashraf/4463
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:A.TV
+http://mynetworks.info:80/ashraf333/333ashraf/4464
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:A2
+http://mynetworks.info:80/ashraf333/333ashraf/4430
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Animal.Planet
+http://mynetworks.info:80/ashraf333/333ashraf/4436
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Beyaz.Tv
+http://mynetworks.info:80/ashraf333/333ashraf/4466
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:CEM.TV
+http://mynetworks.info:80/ashraf333/333ashraf/4462
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Cinestar
+http://mynetworks.info:80/ashraf333/333ashraf/4426
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:CNN
+http://mynetworks.info:80/ashraf333/333ashraf/4467
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Discovery
+http://mynetworks.info:80/ashraf333/333ashraf/4438
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Discovery.Science
+http://mynetworks.info:80/ashraf333/333ashraf/4437
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Docubox
+http://mynetworks.info:80/ashraf333/333ashraf/4429
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Dream.Turk
+http://mynetworks.info:80/ashraf333/333ashraf/4432
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Dream.TV
+http://mynetworks.info:80/ashraf333/333ashraf/4431
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:EuroSport1
+http://mynetworks.info:80/ashraf333/333ashraf/4428
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:EuroSport2
+http://mynetworks.info:80/ashraf333/333ashraf/4427
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Fox
+http://mynetworks.info:80/ashraf333/333ashraf/4459
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:FX
+http://mynetworks.info:80/ashraf333/333ashraf/4425
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="Channels",TR:Haberturk
+http://mynetworks.info:80/ashraf333/333ashraf/4468
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Kanal.D
+http://mynetworks.info:80/ashraf333/333ashraf/4461
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Kanal7
+http://mynetworks.info:80/ashraf333/333ashraf/4460
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Nat.Geo.
+http://mynetworks.info:80/ashraf333/333ashraf/4441
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Nat.Geo.People
+http://mynetworks.info:80/ashraf333/333ashraf/4439
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Nat.Geo.Wild
+http://mynetworks.info:80/ashraf333/333ashraf/4440
+#EXTINF:0 tvg-id="NTV.tr" group-title="Channels",TR:NTV
+http://mynetworks.info:80/ashraf333/333ashraf/4469
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:NTV.Sport
+http://mynetworks.info:80/ashraf333/333ashraf/4442
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Planet.Mutfak
+http://mynetworks.info:80/ashraf333/333ashraf/4435
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:PowerTv
+http://mynetworks.info:80/ashraf333/333ashraf/4414
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Show.Max
+http://mynetworks.info:80/ashraf333/333ashraf/4456
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Show.TV
+http://mynetworks.info:80/ashraf333/333ashraf/4457
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Sinema.TV
+http://mynetworks.info:80/ashraf333/333ashraf/4424
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Sinema.TV.1001
+http://mynetworks.info:80/ashraf333/333ashraf/4423
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Sinema.TV.Aile
+http://mynetworks.info:80/ashraf333/333ashraf/4422
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Sinema.TV.Aksiyson
+http://mynetworks.info:80/ashraf333/333ashraf/4421
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Sinema.TV2
+http://mynetworks.info:80/ashraf333/333ashraf/4420
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Sony.TV
+http://mynetworks.info:80/ashraf333/333ashraf/4419
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Star.TV
+http://mynetworks.info:80/ashraf333/333ashraf/4458
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Tivibu.Sport1
+http://mynetworks.info:80/ashraf333/333ashraf/4445
+#EXTINF:0 tvg-id="ext" group-title="Channels",TR:Tivibu.Sport2
+http://mynetworks.info:80/ashraf333/333ashraf/4444
+#EXTINF:0 tvg-id="CNBC-E.tr" group-title="Channels",TR:TLC
+http://mynetworks.info:80/ashraf333/333ashraf/4418
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| CORONA VIRUS INFO
+http://185.71.64.167:80/1569802583/8829358497/80736
+#EXTINF:0 tvg-id="TRT1.tr" group-title="Channels",|TR| TRT 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80735
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TRT 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80734
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="Channels",|TR| SHOW HD
+http://185.71.64.167:80/1569802583/8829358497/80733
+#EXTINF:0 tvg-id="KanalD.tr" group-title="Channels",|TR| KANAL D HD
+http://185.71.64.167:80/1569802583/8829358497/80732
+#EXTINF:0 tvg-id="ATV.tr" group-title="Channels",|TR| ATV HD
+http://185.71.64.167:80/1569802583/8829358497/80731
+#EXTINF:0 tvg-id="StarHD.tr" group-title="Channels",|TR| STAR HD
+http://185.71.64.167:80/1569802583/8829358497/80730
+#EXTINF:0 tvg-id="Fox.tr" group-title="Channels",|TR| FOX HD
+http://185.71.64.167:80/1569802583/8829358497/80729
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| BEYAZ HD
+http://185.71.64.167:80/1569802583/8829358497/80728
+#EXTINF:0 tvg-id="TV8.tr" group-title="Channels",|TR| TV 8 HD
+http://185.71.64.167:80/1569802583/8829358497/80727
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TV 8.5 HD
+http://185.71.64.167:80/1569802583/8829358497/80726
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="Channels",|TR| KANAL 7 HD
+http://185.71.64.167:80/1569802583/8829358497/80725
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TRT 4K
+http://185.71.64.167:80/1569802583/8829358497/80724
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TRT 1 UHD
+http://185.71.64.167:80/1569802583/8829358497/80723
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TRT 2 UHD
+http://185.71.64.167:80/1569802583/8829358497/80722
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| SHOW UHD
+http://185.71.64.167:80/1569802583/8829358497/80721
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| KANAL D UHD
+http://185.71.64.167:80/1569802583/8829358497/80720
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| ATV UHD
+http://185.71.64.167:80/1569802583/8829358497/80719
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| STAR UHD
+http://185.71.64.167:80/1569802583/8829358497/80718
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| FOX UHD
+http://185.71.64.167:80/1569802583/8829358497/80717
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| BEYAZ UHD
+http://185.71.64.167:80/1569802583/8829358497/80716
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TV 8 UHD
+http://185.71.64.167:80/1569802583/8829358497/80715
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TV 8.5 UHD
+http://185.71.64.167:80/1569802583/8829358497/80714
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| KANAL 7 UHD
+http://185.71.64.167:80/1569802583/8829358497/80713
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| 360 TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80712
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| DMAX UHD
+http://185.71.64.167:80/1569802583/8829358497/80711
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| A2 UHD
+http://185.71.64.167:80/1569802583/8829358497/80710
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TEVE 2 UHD
+http://185.71.64.167:80/1569802583/8829358497/80709
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| SHOW MAX
+http://185.71.64.167:80/1569802583/8829358497/80708
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| TRT 4K+
+http://185.71.64.167:80/1569802583/8829358497/80707
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| YABAN TV HD
+http://185.71.64.167:80/1569802583/8829358497/80706
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR|  HRT AKDENIZ TV
+http://185.71.64.167:80/1569802583/8829358497/80705
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| RUMELI TV
+http://185.71.64.167:80/1569802583/8829358497/80704
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| DRT DENIZLI
+http://185.71.64.167:80/1569802583/8829358497/80703
+#EXTINF:0 tvg-id="ext" group-title="Channels",|TR| EKOTURK
+http://185.71.64.167:80/1569802583/8829358497/80702
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",##### |TR| DINI #####
+http://185.71.64.167:80/1569802583/8829358497/80701
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| AKIT TV HD
+http://185.71.64.167:80/1569802583/8829358497/80700
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| REHBER TV
+http://185.71.64.167:80/1569802583/8829358497/80699
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| LALEGUL TV
+http://185.71.64.167:80/1569802583/8829358497/80698
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| ON 4 TV
+http://185.71.64.167:80/1569802583/8829358497/80697
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| SEMERKAND TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80696
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| DOST TV
+http://185.71.64.167:80/1569802583/8829358497/80695
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| AL QURAN TV
+http://185.71.64.167:80/1569802583/8829358497/80694
+#EXTINF:0 tvg-id="ext" group-title="|TR| DINI",|TR| KABE TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80693
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",##### |TR| HABERLER #####
+http://185.71.64.167:80/1569802583/8829358497/80692
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| TRT HABER UHD
+http://185.71.64.167:80/1569802583/8829358497/80691
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| CNN TURK UHD
+http://185.71.64.167:80/1569802583/8829358497/80690
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| NTV UHD
+http://185.71.64.167:80/1569802583/8829358497/80689
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| 24 HABER UHD
+http://185.71.64.167:80/1569802583/8829358497/80688
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| HABER GLOBAL UHD
+http://185.71.64.167:80/1569802583/8829358497/80687
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| EKO TURK TV
+http://185.71.64.167:80/1569802583/8829358497/80686
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| TV NET UHD
+http://185.71.64.167:80/1569802583/8829358497/80685
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| ULKE TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80684
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| A HABER UHD
+http://185.71.64.167:80/1569802583/8829358497/80683
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| AKIT TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80682
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| KOY TV
+http://185.71.64.167:80/1569802583/8829358497/80681
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| BLOOMBERG HT UHD
+http://185.71.64.167:80/1569802583/8829358497/80680
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| A PARA UHD
+http://185.71.64.167:80/1569802583/8829358497/80679
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| TRT WORLD UHD
+http://185.71.64.167:80/1569802583/8829358497/80678
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| A NEWS UHD
+http://185.71.64.167:80/1569802583/8829358497/80677
+#EXTINF:0 tvg-id="UlusalKanal.tr" group-title="|TR| HABERLER",|TR| ULUSAL KANAL
+http://185.71.64.167:80/1569802583/8829358497/80676
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="|TR| HABERLER",|TR| HALK TV
+http://185.71.64.167:80/1569802583/8829358497/80675
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| TGRT HABER UHD
+http://185.71.64.167:80/1569802583/8829358497/80674
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| TELE 1
+http://185.71.64.167:80/1569802583/8829358497/80673
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| UZAY HABER
+http://185.71.64.167:80/1569802583/8829358497/80672
+#EXTINF:0 tvg-id="KanalB.tr" group-title="|TR| HABERLER",|TR| KANAL B
+http://185.71.64.167:80/1569802583/8829358497/80671
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| KRT UHD
+http://185.71.64.167:80/1569802583/8829358497/80670
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| HABER TURK UHD
+http://185.71.64.167:80/1569802583/8829358497/80669
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| YOL TV
+http://185.71.64.167:80/1569802583/8829358497/80668
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| CAN TV HD
+http://185.71.64.167:80/1569802583/8829358497/80667
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| MC EU
+http://185.71.64.167:80/1569802583/8829358497/80666
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| ARTI TV
+http://185.71.64.167:80/1569802583/8829358497/80665
+#EXTINF:0 tvg-id="ext" group-title="|TR| HABERLER",|TR| TV 100 UHD
+http://185.71.64.167:80/1569802583/8829358497/80664
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",##### |TR| BELGESELLER #####
+http://185.71.64.167:80/1569802583/8829358497/80663
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| TRT BELGESEL UHD
+http://185.71.64.167:80/1569802583/8829358497/80662
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="|TR| BELGESELLER",|TR| TGRT BELGESEL
+http://185.71.64.167:80/1569802583/8829358497/80661
+#EXTINF:0 tvg-id="Discovery.tr" group-title="|TR| BELGESELLER",|TR| DISCOVERY CHANNEL HD
+http://185.71.64.167:80/1569802583/8829358497/80660
+#EXTINF:0 tvg-id="DiscoveryScience.tr" group-title="|TR| BELGESELLER",|TR| DISCOVERY SCIENCE HD
+http://185.71.64.167:80/1569802583/8829358497/80659
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| NGC HD
+http://185.71.64.167:80/1569802583/8829358497/80658
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| NGC WILD HD
+http://185.71.64.167:80/1569802583/8829358497/80657
+#EXTINF:0 tvg-id="History.tr" group-title="|TR| BELGESELLER",|TR| HISTORY CHANNEL HD
+http://185.71.64.167:80/1569802583/8829358497/80656
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| ANIMAL PLANET HD
+http://185.71.64.167:80/1569802583/8829358497/80655
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| TLC UHD
+http://185.71.64.167:80/1569802583/8829358497/80654
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| BEIN GURME HD
+http://185.71.64.167:80/1569802583/8829358497/80653
+#EXTINF:0 tvg-id="IZTV.tr" group-title="|TR| BELGESELLER",|TR| BEIN IZ HD
+http://185.71.64.167:80/1569802583/8829358497/80652
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| ID TR HD
+http://185.71.64.167:80/1569802583/8829358497/80651
+#EXTINF:0 tvg-id="ViasatHistory.tr" group-title="|TR| BELGESELLER",|TR| VIASAT HISTORY HD
+http://185.71.64.167:80/1569802583/8829358497/80650
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| DOCUBOX HD
+http://185.71.64.167:80/1569802583/8829358497/80649
+#EXTINF:0 tvg-id="DiscoveryShowcaseHD.tr" group-title="|TR| BELGESELLER",|TR| DISCOVERY SHOWCASE HD
+http://185.71.64.167:80/1569802583/8829358497/80648
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| OUTDOOR SMART HD
+http://185.71.64.167:80/1569802583/8829358497/80647
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| FAST FUN HD
+http://185.71.64.167:80/1569802583/8829358497/80646
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| DTX TR HD
+http://185.71.64.167:80/1569802583/8829358497/80645
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| DA VINCI HD
+http://185.71.64.167:80/1569802583/8829358497/80644
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| D MAX HD
+http://185.71.64.167:80/1569802583/8829358497/80643
+#EXTINF:0 tvg-id="ext" group-title="|TR| BELGESELLER",|TR| BBC EARTH HD
+http://185.71.64.167:80/1569802583/8829358497/80642
+#EXTINF:0 tvg-id="24Kitchen.tr" group-title="|TR| BELGESELLER",|TR|  24 KITCHEN HD
+http://185.71.64.167:80/1569802583/8829358497/80641
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",##### |TR| COCUKLAR #####
+http://185.71.64.167:80/1569802583/8829358497/80640
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",|TR| TRT COCUK UHD
+http://185.71.64.167:80/1569802583/8829358497/80639
+#EXTINF:0 tvg-id="MinikaGo.tr" group-title="|TR| COCUKLAR",|TR| MINIKA GO
+http://185.71.64.167:80/1569802583/8829358497/80638
+#EXTINF:0 tvg-id="MinikaCocuk.tr" group-title="|TR| COCUKLAR",|TR| MINIKA COCUK
+http://185.71.64.167:80/1569802583/8829358497/80637
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",|TR| NICK JR
+http://185.71.64.167:80/1569802583/8829358497/80636
+#EXTINF:0 tvg-id="NickelodeonHD.tr" group-title="|TR| COCUKLAR",|TR| NICKELODEON HD
+http://185.71.64.167:80/1569802583/8829358497/80635
+#EXTINF:0 tvg-id="DisneyXD.tr" group-title="|TR| COCUKLAR",|TR|  DISNEY XD
+http://185.71.64.167:80/1569802583/8829358497/80634
+#EXTINF:0 tvg-id="DisneyJunior.tr" group-title="|TR| COCUKLAR",|TR|  DISNEY JR HD
+http://185.71.64.167:80/1569802583/8829358497/80633
+#EXTINF:0 tvg-id="DisneyChannel.tr" group-title="|TR| COCUKLAR",|TR| DISNEY CHANNEL
+http://185.71.64.167:80/1569802583/8829358497/80632
+#EXTINF:0 tvg-id="CartoonNetwork.tr" group-title="|TR| COCUKLAR",|TR| CARTOON NETWORK
+http://185.71.64.167:80/1569802583/8829358497/80631
+#EXTINF:0 tvg-id="Boomerang.tr" group-title="|TR| COCUKLAR",|TR| BOOMERANG HD
+http://185.71.64.167:80/1569802583/8829358497/80630
+#EXTINF:0 tvg-id="BabyTV.tr" group-title="|TR| COCUKLAR",|TR| BABY TV
+http://185.71.64.167:80/1569802583/8829358497/80629
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",|TR| TOM VE JERRY
+http://185.71.64.167:80/1569802583/8829358497/80628
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",|TR| NILOYA TV
+http://185.71.64.167:80/1569802583/8829358497/80627
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",|TR| TRT EBA TV HD ILKOKUL
+http://185.71.64.167:80/1569802583/8829358497/80626
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",|TR| TRT EBA TV HD ORTAOKUL
+http://185.71.64.167:80/1569802583/8829358497/80625
+#EXTINF:0 tvg-id="ext" group-title="|TR| COCUKLAR",|TR| TRT EBA TV HD LISE
+http://185.71.64.167:80/1569802583/8829358497/80624
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",##### |TR| MUZIK #####
+http://185.71.64.167:80/1569802583/8829358497/80623
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| TRT MUZIK UHD
+http://185.71.64.167:80/1569802583/8829358497/80622
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| NR 1 UHD
+http://185.71.64.167:80/1569802583/8829358497/80621
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| NR 1 TURK UHD
+http://185.71.64.167:80/1569802583/8829358497/80620
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| KRAL TV HD
+http://185.71.64.167:80/1569802583/8829358497/80619
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| KRAL POP HD
+http://185.71.64.167:80/1569802583/8829358497/80618
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| KRAL PERFORMANS TV HD
+http://185.71.64.167:80/1569802583/8829358497/80617
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| POWER UHD
+http://185.71.64.167:80/1569802583/8829358497/80616
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| POWER TURK UHD
+http://185.71.64.167:80/1569802583/8829358497/80615
+#EXTINF:0 tvg-id="DreamTV.tr" group-title="|TR| MUZIK",|TR| DREAM TV
+http://185.71.64.167:80/1569802583/8829358497/80614
+#EXTINF:0 tvg-id="DreamTurk.tr" group-title="|TR| MUZIK",|TR| DREAM TURK
+http://185.71.64.167:80/1569802583/8829358497/80613
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| MAVI KARADENIZ TV
+http://185.71.64.167:80/1569802583/8829358497/80612
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| VATAN TV
+http://185.71.64.167:80/1569802583/8829358497/80611
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| MILYON TV
+http://185.71.64.167:80/1569802583/8829358497/80610
+#EXTINF:0 tvg-id="ext" group-title="|TR| MUZIK",|TR| DEM TV
+http://185.71.64.167:80/1569802583/8829358497/80609
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",##### |TR| AVRUPA #####
+http://185.71.64.167:80/1569802583/8829358497/80608
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",|TR| ATV EU
+http://185.71.64.167:80/1569802583/8829358497/80607
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",|TR| EURO D EU
+http://185.71.64.167:80/1569802583/8829358497/80606
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",|TR| EURO STAR EU
+http://185.71.64.167:80/1569802583/8829358497/80605
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",|TR| KANAL 7 EU
+http://185.71.64.167:80/1569802583/8829358497/80604
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",|TR| TV 8 INT EU
+http://185.71.64.167:80/1569802583/8829358497/80603
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",|TR| SHOW TURK EU
+http://185.71.64.167:80/1569802583/8829358497/80602
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="|TR| AVRUPA",|TR| TGRT EU
+http://185.71.64.167:80/1569802583/8829358497/80601
+#EXTINF:0 tvg-id="ext" group-title="|TR| AVRUPA",|TR| KANAL AVRUPA EU
+http://185.71.64.167:80/1569802583/8829358497/80600
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",##### |TR| DGIR #####
+http://185.71.64.167:80/1569802583/8829358497/80599
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| DIYANET TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80598
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TRT TURK UHD
+http://185.71.64.167:80/1569802583/8829358497/80597
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TRT AVAZ UHD
+http://185.71.64.167:80/1569802583/8829358497/80596
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| BENGU TURK
+http://185.71.64.167:80/1569802583/8829358497/80595
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| CEM TV
+http://185.71.64.167:80/1569802583/8829358497/80594
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| YILDIZ EN
+http://185.71.64.167:80/1569802583/8829358497/80593
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KON TV KONYA
+http://185.71.64.167:80/1569802583/8829358497/80592
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL 42 KONYA
+http://185.71.64.167:80/1569802583/8829358497/80591
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| UCAN KUS TV
+http://185.71.64.167:80/1569802583/8829358497/80590
+#EXTINF:0 tvg-id="MeltemTv.tr" group-title="|TR| DGIR",|TR| MELTEM TV
+http://185.71.64.167:80/1569802583/8829358497/80589
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TV 4 UHD
+http://185.71.64.167:80/1569802583/8829358497/80588
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TV 5
+http://185.71.64.167:80/1569802583/8829358497/80587
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| AKILLI TV
+http://185.71.64.167:80/1569802583/8829358497/80586
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KUDUS TV
+http://185.71.64.167:80/1569802583/8829358497/80585
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TV KAYSERI
+http://185.71.64.167:80/1569802583/8829358497/80584
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TV 1 KAYSERI
+http://185.71.64.167:80/1569802583/8829358497/80583
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| ALTAS TV ORDU
+http://185.71.64.167:80/1569802583/8829358497/80582
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| CAY TV RIZE
+http://185.71.64.167:80/1569802583/8829358497/80581
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| CIFT TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80580
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| DRT DENIZLI TV
+http://185.71.64.167:80/1569802583/8829358497/80579
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL FIRAT ELAZIG
+http://185.71.64.167:80/1569802583/8829358497/80578
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL URFA
+http://185.71.64.167:80/1569802583/8829358497/80577
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| PAMUKKALE TV
+http://185.71.64.167:80/1569802583/8829358497/80576
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL 3 ISPARTA HD
+http://185.71.64.167:80/1569802583/8829358497/80575
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL V ANTALYA
+http://185.71.64.167:80/1569802583/8829358497/80574
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KOZA TV ADANA
+http://185.71.64.167:80/1569802583/8829358497/80573
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| VIZYON 58 SIVAS
+http://185.71.64.167:80/1569802583/8829358497/80572
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TURKMENELI TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80571
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TEK RUMELI TV
+http://185.71.64.167:80/1569802583/8829358497/80570
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| GTV TV SANLIURFA
+http://185.71.64.167:80/1569802583/8829358497/80569
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KENT TURK TV KAYSERA
+http://185.71.64.167:80/1569802583/8829358497/80568
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TVDEN AYDIN
+http://185.71.64.167:80/1569802583/8829358497/80567
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| TVO
+http://185.71.64.167:80/1569802583/8829358497/80566
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL 32 ISPARTA HD
+http://185.71.64.167:80/1569802583/8829358497/80565
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| BRT 1 UHD
+http://185.71.64.167:80/1569802583/8829358497/80564
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| BRT 2 UHD
+http://185.71.64.167:80/1569802583/8829358497/80563
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KIBRIS TV
+http://185.71.64.167:80/1569802583/8829358497/80562
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KIBRIS TV ADA
+http://185.71.64.167:80/1569802583/8829358497/80561
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL T KIBRIS
+http://185.71.64.167:80/1569802583/8829358497/80560
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KIBRIS GENC TV
+http://185.71.64.167:80/1569802583/8829358497/80559
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR|  SRT SIVAS
+http://185.71.64.167:80/1569802583/8829358497/80558
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| AVA TV UHD
+http://185.71.64.167:80/1569802583/8829358497/80557
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KANAL 68
+http://185.71.64.167:80/1569802583/8829358497/80556
+#EXTINF:0 tvg-id="ext" group-title="|TR| DGIR",|TR| KARDELEN TV
+http://185.71.64.167:80/1569802583/8829358497/80555
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",##### |TR| FILMLER #####
+http://185.71.64.167:80/1569802583/8829358497/80554
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE PREMIUM HD
+http://185.71.64.167:80/1569802583/8829358497/80553
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE PREMIUM 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80552
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE PLATIN HD
+http://185.71.64.167:80/1569802583/8829358497/80551
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE PLATIN 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80550
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE FAMILY HD
+http://185.71.64.167:80/1569802583/8829358497/80549
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE FEST HD
+http://185.71.64.167:80/1569802583/8829358497/80548
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE GOLD HD
+http://185.71.64.167:80/1569802583/8829358497/80547
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE CLASSIC HD
+http://185.71.64.167:80/1569802583/8829358497/80546
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE ACTION HD
+http://185.71.64.167:80/1569802583/8829358497/80545
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| MOVIE TURK HD
+http://185.71.64.167:80/1569802583/8829358497/80544
+#EXTINF:0 tvg-id="DiziPremiumHD.tr" group-title="|TR| FILMLER",|TR| DiZi PREMIUM HD
+http://185.71.64.167:80/1569802583/8829358497/80543
+#EXTINF:0 tvg-id="ext" group-title="|TR| FILMLER",|TR| DIZISMART MAX HD
+http://185.71.64.167:80/1569802583/8829358497/80542
+#EXTINF:0 tvg-id="FX.tr" group-title="|TR| FILMLER",|TR| FX HD
+http://185.71.64.167:80/1569802583/8829358497/80541
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",##### |TR| BEIN MOVIES #####
+http://185.71.64.167:80/1569802583/8829358497/80540
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN MOVIES ACTION HD
+http://185.71.64.167:80/1569802583/8829358497/80539
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN MOVIES ACTION 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80538
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN MOVIES FAMILY HD
+http://185.71.64.167:80/1569802583/8829358497/80537
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN MOVIES PREMIER HD
+http://185.71.64.167:80/1569802583/8829358497/80536
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN MOVIES PREMIER 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80535
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN MOVIES STARS HD
+http://185.71.64.167:80/1569802583/8829358497/80534
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN MOVIES TURK HD
+http://185.71.64.167:80/1569802583/8829358497/80533
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN SERIES COMEDY HD
+http://185.71.64.167:80/1569802583/8829358497/80532
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN SERIES DRAMA HD
+http://185.71.64.167:80/1569802583/8829358497/80531
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN SERIES SCI-FI HD
+http://185.71.64.167:80/1569802583/8829358497/80530
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN SERIES VICE HD
+http://185.71.64.167:80/1569802583/8829358497/80529
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN BOX OFFICE 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80528
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN BOX OFFICE 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80527
+#EXTINF:0 tvg-id="ext" group-title="|TR| BEIN MOVIES",|TR| BEIN BOX OFFICE 3 HD
+http://185.71.64.167:80/1569802583/8829358497/80526
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",##### |TR| LOCA MOVIES #####
+http://185.71.64.167:80/1569802583/8829358497/80525
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| METROPOL TURK
+http://185.71.64.167:80/1569802583/8829358497/80524
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| METROPOL NETFLIX
+http://185.71.64.167:80/1569802583/8829358497/80523
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| METROPOL KUKULI
+http://185.71.64.167:80/1569802583/8829358497/80522
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| METROPOL KARE
+http://185.71.64.167:80/1569802583/8829358497/80521
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| METROPOL ANKARA
+http://185.71.64.167:80/1569802583/8829358497/80520
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| METROPOL AKILLI TAVSAN MOMO
+http://185.71.64.167:80/1569802583/8829358497/80519
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT YESILCAM   3 HD
+http://185.71.64.167:80/1569802583/8829358497/80518
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SMART TURK HD
+http://185.71.64.167:80/1569802583/8829358497/80517
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SMART GOLD HD
+http://185.71.64.167:80/1569802583/8829358497/80516
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SMART FEST HD
+http://185.71.64.167:80/1569802583/8829358497/80515
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SMART FAMILY HD
+http://185.71.64.167:80/1569802583/8829358497/80514
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SMART ACTION HD
+http://185.71.64.167:80/1569802583/8829358497/80513
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA YERLI HD
+http://185.71.64.167:80/1569802583/8829358497/80512
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA YERLI 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80511
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA TV HD
+http://185.71.64.167:80/1569802583/8829358497/80510
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA TV 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80509
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA KOMEDI HD
+http://185.71.64.167:80/1569802583/8829358497/80508
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA KOMEDI 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80507
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA AKSIYON HD
+http://185.71.64.167:80/1569802583/8829358497/80506
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA AKSIYON 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80505
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA AILE HD
+http://185.71.64.167:80/1569802583/8829358497/80504
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT SINEMA AILE 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80503
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT POP
+http://185.71.64.167:80/1569802583/8829358497/80502
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT NILOYA TV
+http://185.71.64.167:80/1569802583/8829358497/80501
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT NETFLIX 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80500
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT NETFLIX 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80499
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT NETFLIX 3 HD
+http://185.71.64.167:80/1569802583/8829358497/80498
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT MOVIES PREMIER HD
+http://185.71.64.167:80/1569802583/8829358497/80497
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT MOVIES PREMIER 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80496
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT MOVIES FESTIVAL HD
+http://185.71.64.167:80/1569802583/8829358497/80495
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT MOVIES FAMILIY HD
+http://185.71.64.167:80/1569802583/8829358497/80494
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT MASA ILE KOCA AYI
+http://185.71.64.167:80/1569802583/8829358497/80493
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT KEMAL SUNAL
+http://185.71.64.167:80/1569802583/8829358497/80492
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT HD COCUK
+http://185.71.64.167:80/1569802583/8829358497/80491
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT HD ANIMASYON 3
+http://185.71.64.167:80/1569802583/8829358497/80490
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT HD ANIMASYON 2
+http://185.71.64.167:80/1569802583/8829358497/80489
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT HD ANIMASYON 1
+http://185.71.64.167:80/1569802583/8829358497/80488
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT BOX OFFICE 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80487
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT BOX OFFICE 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80486
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT BOX OFFICE 3 HD
+http://185.71.64.167:80/1569802583/8829358497/80485
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT ARABESK
+http://185.71.64.167:80/1569802583/8829358497/80484
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT ANKARA  HD
+http://185.71.64.167:80/1569802583/8829358497/80483
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ELIT AKILLI TAVSAN MOMO
+http://185.71.64.167:80/1569802583/8829358497/80482
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| LOCA 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80481
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| LOCA 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80480
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| LOCA 3 HD
+http://185.71.64.167:80/1569802583/8829358497/80479
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 1
+http://185.71.64.167:80/1569802583/8829358497/80478
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 2
+http://185.71.64.167:80/1569802583/8829358497/80477
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 3
+http://185.71.64.167:80/1569802583/8829358497/80476
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 4
+http://185.71.64.167:80/1569802583/8829358497/80475
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 5
+http://185.71.64.167:80/1569802583/8829358497/80474
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 6
+http://185.71.64.167:80/1569802583/8829358497/80473
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 7
+http://185.71.64.167:80/1569802583/8829358497/80472
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV MIX 10
+http://185.71.64.167:80/1569802583/8829358497/80471
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV KORKU 1
+http://185.71.64.167:80/1569802583/8829358497/80470
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV KOMEDI 1
+http://185.71.64.167:80/1569802583/8829358497/80469
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV DRAMA 1
+http://185.71.64.167:80/1569802583/8829358497/80468
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV WESTERN
+http://185.71.64.167:80/1569802583/8829358497/80467
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV BILIMKURGU 1
+http://185.71.64.167:80/1569802583/8829358497/80466
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV ANIMASYON 1
+http://185.71.64.167:80/1569802583/8829358497/80465
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV AKSIYON 1
+http://185.71.64.167:80/1569802583/8829358497/80464
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV AKSIYON 2
+http://185.71.64.167:80/1569802583/8829358497/80463
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV AKSIYON 3
+http://185.71.64.167:80/1569802583/8829358497/80462
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV AKSIYON 4
+http://185.71.64.167:80/1569802583/8829358497/80461
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV TURK SINEMA 1
+http://185.71.64.167:80/1569802583/8829358497/80460
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV TURK SINEMA 2
+http://185.71.64.167:80/1569802583/8829358497/80459
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV TURK SINEMA 3
+http://185.71.64.167:80/1569802583/8829358497/80458
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV TURK SINEMA 4
+http://185.71.64.167:80/1569802583/8829358497/80457
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| MEDOTV TURK SINEMA 5
+http://185.71.64.167:80/1569802583/8829358497/80456
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| YESIL SINEMA TV
+http://185.71.64.167:80/1569802583/8829358497/80455
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO TURK 1
+http://185.71.64.167:80/1569802583/8829358497/80454
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO ANIMASYON
+http://185.71.64.167:80/1569802583/8829358497/80453
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO WESTERN
+http://185.71.64.167:80/1569802583/8829358497/80452
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 1
+http://185.71.64.167:80/1569802583/8829358497/80451
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 2
+http://185.71.64.167:80/1569802583/8829358497/80450
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 3
+http://185.71.64.167:80/1569802583/8829358497/80449
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 4
+http://185.71.64.167:80/1569802583/8829358497/80448
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 5
+http://185.71.64.167:80/1569802583/8829358497/80447
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 6
+http://185.71.64.167:80/1569802583/8829358497/80446
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 7
+http://185.71.64.167:80/1569802583/8829358497/80445
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 8
+http://185.71.64.167:80/1569802583/8829358497/80444
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 9
+http://185.71.64.167:80/1569802583/8829358497/80443
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 10
+http://185.71.64.167:80/1569802583/8829358497/80442
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 11
+http://185.71.64.167:80/1569802583/8829358497/80441
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 12
+http://185.71.64.167:80/1569802583/8829358497/80440
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 13
+http://185.71.64.167:80/1569802583/8829358497/80439
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 14
+http://185.71.64.167:80/1569802583/8829358497/80438
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| ENO VIZYON 15
+http://185.71.64.167:80/1569802583/8829358497/80437
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80436
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80435
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 3 HD
+http://185.71.64.167:80/1569802583/8829358497/80434
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 4 HD
+http://185.71.64.167:80/1569802583/8829358497/80433
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 5 HD
+http://185.71.64.167:80/1569802583/8829358497/80432
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 6 HD
+http://185.71.64.167:80/1569802583/8829358497/80431
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 7 HD
+http://185.71.64.167:80/1569802583/8829358497/80430
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 8 HD
+http://185.71.64.167:80/1569802583/8829358497/80429
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 9 HD
+http://185.71.64.167:80/1569802583/8829358497/80428
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES 10 HD
+http://185.71.64.167:80/1569802583/8829358497/80427
+#EXTINF:0 tvg-id="ext" group-title="|TR| LOCA MOVIES",|TR| BOSS MOVIES KEMAL SUNAL
+http://185.71.64.167:80/1569802583/8829358497/80426
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",##### |TR| JUMBO MOVIES #####
+http://185.71.64.167:80/1569802583/8829358497/80425
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV MACERA HD
+http://185.71.64.167:80/1569802583/8829358497/80424
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV KORKU HD
+http://185.71.64.167:80/1569802583/8829358497/80423
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| BLACK TV ANIMAYON HD
+http://185.71.64.167:80/1569802583/8829358497/80422
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV KOMEDI HD
+http://185.71.64.167:80/1569802583/8829358497/80421
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV GERILIM HD
+http://185.71.64.167:80/1569802583/8829358497/80420
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV FANTASTIK HD
+http://185.71.64.167:80/1569802583/8829358497/80419
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV DRAM HD
+http://185.71.64.167:80/1569802583/8829358497/80418
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV COCUK HD
+http://185.71.64.167:80/1569802583/8829358497/80417
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV BIYOGRAFI HD
+http://185.71.64.167:80/1569802583/8829358497/80416
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV BILIM-KURGU HD
+http://185.71.64.167:80/1569802583/8829358497/80415
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV AKSIYON HD
+http://185.71.64.167:80/1569802583/8829358497/80414
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV TURK HD
+http://185.71.64.167:80/1569802583/8829358497/80413
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV YESILCAM HD
+http://185.71.64.167:80/1569802583/8829358497/80412
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV SAVAS HD
+http://185.71.64.167:80/1569802583/8829358497/80411
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV SPOR HD
+http://185.71.64.167:80/1569802583/8829358497/80410
+#EXTINF:0 tvg-id="ext" group-title="|TR| JUMBO MOVIES",|TR| JUMBOTV WESTERN HD
+http://185.71.64.167:80/1569802583/8829358497/80409
+
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",##### |TR| SINEMA MOVIE #####
+http://185.71.64.167:80/1569802583/8829358497/80408
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| SINEMA TV YERLI HD
+http://185.71.64.167:80/1569802583/8829358497/80407
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| SINEMA TV YERLI 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80406
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| SINEMA TV KOMEDI HD
+http://185.71.64.167:80/1569802583/8829358497/80405
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| SINEMA TV HD
+http://185.71.64.167:80/1569802583/8829358497/80404
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| SINEMA TV 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80403
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| SINEMA TV AILE 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80402
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| SINEMA TV ACTION HD
+http://185.71.64.167:80/1569802583/8829358497/80401
+#EXTINF:0 tvg-id="ext" group-title="|TR| SINEMA MOVIE",|TR| KEMAL SUNAL TV 4K
+http://185.71.64.167:80/1569802583/8829358497/80400
+
 #EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",##### |TR| SPOR #####
 http://185.71.64.167:80/1569802583/8829358497/80399
 #EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 1 HD
@@ -20,3 +1079,598 @@ http://185.71.64.167:80/1569802583/8829358497/80391
 #EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 3 UHD
 http://185.71.64.167:80/1569802583/8829358497/80390
 #EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS 4 UHD
+http://185.71.64.167:80/1569802583/8829358497/80389
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN MAX 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80388
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN MAX 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80387
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| BEIN SPORTS HABER UHD
+http://185.71.64.167:80/1569802583/8829358497/80386
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SPOR SMART HD
+http://185.71.64.167:80/1569802583/8829358497/80385
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="|TR| SPOR",|TR| SPORTS TV
+http://185.71.64.167:80/1569802583/8829358497/80384
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SARAN SPORT HD
+http://185.71.64.167:80/1569802583/8829358497/80383
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| SARAN SPORT 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80382
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR UHD
+http://185.71.64.167:80/1569802583/8829358497/80381
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80380
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80379
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TIVIBU SPOR 3 HD
+http://185.71.64.167:80/1569802583/8829358497/80378
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TAY TV HD PLUS
+http://185.71.64.167:80/1569802583/8829358497/80377
+#EXTINF:0 tvg-id="TRT3.tr" group-title="|TR| SPOR",|TR| TRT SPOR HD
+http://185.71.64.167:80/1569802583/8829358497/80376
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TRT SPOR UHD
+http://185.71.64.167:80/1569802583/8829358497/80375
+#EXTINF:0 tvg-id="ASpor.tr" group-title="|TR| SPOR",|TR| A SPOR HD
+http://185.71.64.167:80/1569802583/8829358497/80374
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| A SPOR UHD
+http://185.71.64.167:80/1569802583/8829358497/80373
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| TRT SPOR 2 HD+
+http://185.71.64.167:80/1569802583/8829358497/80372
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="|TR| SPOR",|TR| GS TV
+http://185.71.64.167:80/1569802583/8829358497/80371
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| FB TV HD PLUS
+http://185.71.64.167:80/1569802583/8829358497/80370
+#EXTINF:0 tvg-id="BJKTV.tr" group-title="|TR| SPOR",|TR| BJK TV
+http://185.71.64.167:80/1569802583/8829358497/80369
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="|TR| SPOR",|TR| EUROSPORT 1 HD
+http://185.71.64.167:80/1569802583/8829358497/80368
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="|TR| SPOR",|TR| EUROSPORT 2 HD
+http://185.71.64.167:80/1569802583/8829358497/80367
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| NBA HD
+http://185.71.64.167:80/1569802583/8829358497/80366
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",|TR| FIGHT BOX HD
+http://185.71.64.167:80/1569802583/8829358497/80365
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORT 1 FEED
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298141.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 MOBIL
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38915.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 HD (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38916.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 SD ( BACKUP )
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38917.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38918.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 HD ( BACKUP )
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38919.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38920.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 UHD ( BACKUP )
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38921.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 1 UHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38922.ts
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="|TR| SPOR",TR: BEIN SPORTS 2 SD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38923.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38924.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 2 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38925.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="|TR| SPOR",TR: BEIN SPORTS 3 SD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38926.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="|TR| SPOR",TR: BEIN SPORTS 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38927.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 3 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38928.ts
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="|TR| SPOR",TR: BEIN SPORTS 4 SD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38929.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 4 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38930.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS 4 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38931.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS MAX 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38932.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS MAX 1 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38933.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS MAX 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38934.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN SPORTS MAX 2 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38935.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 1 (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38936.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TiViBUSPOR 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38937.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 2 (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38938.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TiViBUSPOR 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38939.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TIVIBUSPOR 3 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38940.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TiViBUSPOR 3 FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38941.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SARAN SPORT 1 (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38942.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SARAN SPORT 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38943.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SARAN SPORT 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38944.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SPOR SMART HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38945.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SPOR SMART HD+
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38946.ts
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="|TR| SPOR",TR: SPORTS TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38947.ts
+#EXTINF:0 tvg-id="NBATV.tr" group-title="|TR| SPOR",TR: NBA TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38948.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NBA TV UHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38949.ts
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="|TR| SPOR",TR: EUROSPORT 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38950.ts
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="|TR| SPOR",TR: EUROSPORT 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38951.ts
+#EXTINF:0 tvg-id="TRT3.tr" group-title="|TR| SPOR",TR: TRT SPOR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38952.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TRT SPOR 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38953.ts
+#EXTINF:0 tvg-id="ASpor.tr" group-title="|TR| SPOR",TR: A SPOR
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38954.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: GSTV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38955.ts
+#EXTINF:0 tvg-id="FBTV.tr" group-title="|TR| SPOR",TR: FB TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38956.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TRT 4K
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39035.ts
+#EXTINF:0 tvg-id="TRT1.tr" group-title="|TR| SPOR",TR: TRT 1 (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39036.ts
+#EXTINF:0 tvg-id="TRT1.tr" group-title="|TR| SPOR",TR: TRT 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39037.ts
+#EXTINF:0 tvg-id="ATV.tr" group-title="|TR| SPOR",TR: ATV (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39038.ts
+#EXTINF:0 tvg-id="ATV.tr" group-title="|TR| SPOR",TR: ATV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39039.ts
+#EXTINF:0 tvg-id="TV2.tr" group-title="|TR| SPOR",TR: TEVE 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243963.ts
+#EXTINF:0 tvg-id="KanalD.tr" group-title="|TR| SPOR",TR: KANAL D (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39040.ts
+#EXTINF:0 tvg-id="KanalD.tr" group-title="|TR| SPOR",TR: KANAL D HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39041.ts
+#EXTINF:0 tvg-id="StarHD.tr" group-title="|TR| SPOR",TR: STAR TV (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39042.ts
+#EXTINF:0 tvg-id="Start.tr" group-title="|TR| SPOR",TR: STAR TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39043.ts
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="|TR| SPOR",TR: SHOW TV (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39044.ts
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="|TR| SPOR",TR: SHOW TV (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39045.ts
+#EXTINF:0 tvg-id="Fox.tr" group-title="|TR| SPOR",TR: FOX TV (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39046.ts
+#EXTINF:0 tvg-id="Fox.tr" group-title="|TR| SPOR",TR: FOX TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39047.ts
+#EXTINF:0 tvg-id="TV8.tr" group-title="|TR| SPOR",TR: TV 8 (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39048.ts
+#EXTINF:0 tvg-id="TV8.tr" group-title="|TR| SPOR",TR: TV 8 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39049.ts
+#EXTINF:0 tvg-id="5kanal" group-title="|TR| SPOR",5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39050.ts
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="|TR| SPOR",TR: KANAL 7 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39051.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SKY TURK360 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39054.ts
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="|TR| SPOR",TR: BEYAZ TV (Backup)
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39056.ts
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="|TR| SPOR",TR: BEYAZ TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39057.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TRT 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39059.ts
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="|TR| SPOR",TR: TRT TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39060.ts
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="|TR| SPOR",TR: TRT AVAZ
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39061.ts
+#EXTINF:0 tvg-id="TRTWorldHD.tr" group-title="|TR| SPOR",TR: TRT WORLD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39062.ts
+#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="|TR| SPOR",TR: TRT DIYANET
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39063.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: YOL TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39066.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: AKIT TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39070.ts
+#EXTINF:0 tvg-id="ATV.tr" group-title="|TR| SPOR",TR: ATV HD+
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39073.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: KANAL D EU
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39074.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: STAR TV EU
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39075.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SHOW TV EU
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39076.ts
+#EXTINF:0 tvg-id="TV8.tr" group-title="|TR| SPOR",TR: TV8 HD+
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39077.ts
+#EXTINF:0 tvg-id="AHaber.tr" group-title="|TR| SPOR",TR: A HABER
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39093.ts
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="|TR| SPOR",TR: CNN TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39096.ts
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="|TR| SPOR",TR: HABERTURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39099.ts
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="|TR| SPOR",TR: HALK TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39100.ts
+#EXTINF:0 tvg-id="24.tr" group-title="|TR| SPOR",TR: KANAL 24
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39101.ts
+#EXTINF:0 tvg-id="NTV.tr" group-title="|TR| SPOR",TR: NTV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39103.ts
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="|TR| SPOR",TR: TGRT EU
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39104.ts
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="|TR| SPOR",TR: TRT HABER
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39105.ts
+#EXTINF:0 tvg-id="TVNet.tr" group-title="|TR| SPOR",TR: TVNET
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39106.ts
+#EXTINF:0 tvg-id="UlkeTV.tr" group-title="|TR| SPOR",TR: ULKE TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39107.ts
+#EXTINF:0 tvg-id="DreamTV.tr" group-title="|TR| SPOR",TR: DREAM TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39109.ts
+#EXTINF:0 tvg-id="DreamTurk.tr" group-title="|TR| SPOR",TR: DREAM TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39110.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NR1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39114.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NR1 TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39115.ts
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="|TR| SPOR",TR: POWER
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39116.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: POWER TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39117.ts
+#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="|TR| SPOR",TR: TRT MUZIK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39118.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Kanal 360 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39119.ts
+#EXTINF:0 tvg-id="CartoonNetwork.tr" group-title="|TR| SPOR",TR: CARTOON NETWORK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39123.ts
+#EXTINF:0 tvg-id="DisneyChannel.tr" group-title="|TR| SPOR",TR: DISNEY CHANNEL
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39125.ts
+#EXTINF:0 tvg-id="DisneyXD.tr" group-title="|TR| SPOR",TR: DiSNEY XD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39127.ts
+#EXTINF:0 tvg-id="MinikaCocuk.tr" group-title="|TR| SPOR",TR: MINIKA COCUK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39143.ts
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="|TR| SPOR",TR: TRT COCUK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39147.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SHOW MAX HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/55588.ts
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="|TR| SPOR",TR: SHOW TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/55589.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TV 41 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/55717.ts
+#EXTINF:0 tvg-id="NATGEOGRAPHIC.tr" group-title="|TR| SPOR",TR: NAT GEO
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39014.ts
+#EXTINF:0 tvg-id="NatGeoWild.tr" group-title="|TR| SPOR",TR: NAT GEO WILD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39015.ts
+#EXTINF:0 tvg-id="NatGeoPeople.tr" group-title="|TR| SPOR",TR: NAT GEO PEOPLE
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39016.ts
+#EXTINF:0 tvg-id="AnimalPlanet.tr" group-title="|TR| SPOR",TR: ANIMAL PLANET
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39017.ts
+#EXTINF:0 tvg-id="Discovery.tr" group-title="|TR| SPOR",TR: DISCOVERY CHANNEL
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39018.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: DISCOVERY SCI
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39019.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: DISCOVERY ID
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39020.ts
+#EXTINF:0 tvg-id="History.tr" group-title="|TR| SPOR",TR: HISTORY CHANNEL
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39021.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: DMAX
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39022.ts
+#EXTINF:0 tvg-id="BBCEarth.tr" group-title="|TR| SPOR",TR: BBC Earth
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39023.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: 24 KITCHEN
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39024.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: YABAN TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/39025.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Movie Smart Gold HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/155423.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Movie Smart Classic HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/155424.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Movie Smart Family HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/155425.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: Movie Smart Action HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/155440.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: beIN Movies Action 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/155441.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TELE 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/155442.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: LALE GUL TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215054.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TRT KURDI FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/233153.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: DiZi SMART MAX HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243943.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: DOCUBOX HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243944.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA ANIMASYON
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243946.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA FESTIVAL
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243947.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA GERILIM
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243948.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA NOSTALJI
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243949.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA PREMiER
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243950.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA STARS
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243951.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243952.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX CINEMA ViZYON
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243953.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX LOCA 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243954.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX LOCA 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243955.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX LOCA 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243956.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX LOCA 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243957.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX LOCA 7
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243958.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX PREMIERE
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243959.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX SCARY
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243960.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX SUBTITLE
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243961.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: NEXTBOX YESILCAM
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/243962.ts
+#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="|TR| SPOR",TR: BEIN MOVIES PREMIER
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38960.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BEIN MOVIES PREMIER 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38961.ts
+#EXTINF:0 tvg-id="MoviemaxStars.tr" group-title="|TR| SPOR",TR: BEIN MOVIES STARS
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38962.ts
+#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="|TR| SPOR",TR: BEIN MOVIES ACTION
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38963.ts
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="|TR| SPOR",TR: BEIN MOVIES FAMILY
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38964.ts
+#EXTINF:0 tvg-id="MoviemaxTurk.tr" group-title="|TR| SPOR",TR: BEIN MOVIES TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38965.ts
+#EXTINF:0 tvg-id="DizimaxVice.tr" group-title="|TR| SPOR",TR: BEIN SERIES VICE
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38966.ts
+#EXTINF:0 tvg-id="DizimaxSci-fi.tr" group-title="|TR| SPOR",TR: BEIN SERIES SCI-FI
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38967.ts
+#EXTINF:0 tvg-id="DizimaxDrama.tr" group-title="|TR| SPOR",TR: BEIN SERIES DRAMA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38968.ts
+#EXTINF:0 tvg-id="DizimaxComedy.tr" group-title="|TR| SPOR",TR: BEIN SERIES COMEDY
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38969.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: LOCA 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215057.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: LOCA 3 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215058.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MaGic BoX Yerli HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215060.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MaGicBoX Aksiyon HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215061.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MaGicBoX Animasyon HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215062.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MaGicBoX Kemal Sunal HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215063.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MaGicBoX Komedi HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215064.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MaGicBoX Korku HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215065.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MagicBox Loca 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215066.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MagicBox Loca 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215067.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MagicBox Loca 3 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215068.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PREMiER VIZYON 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215069.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PREMiER VIZYON FEST 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215071.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PRiMEBOX 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215072.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PRiMEBOX ACTiON 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215073.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PRiMEBOX ACTiON 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215074.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PRiMEBOX ANiMASYON
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215075.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PRiMEBOX KORKU
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215076.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PRiMEBOX TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215077.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX 4K FHD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215079.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX ACTIE 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215080.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX ACTiON 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215081.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX ARABESK TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215089.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX DRAMA HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215097.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX GOLD HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215098.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX HORROR 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215100.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX KEMAL SUNAL TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215101.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX sci-fi 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215117.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX SINEMA TURK 1 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215119.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX SINEMA TURK 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215120.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX TURKCE POP
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215125.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX VIZYON 2 HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215127.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: REDBOX YESiLCAM TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215129.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: PePe Box
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215132.ts
+#EXTINF:0 tvg-id="PlanetCocuk.tr" group-title="|TR| SPOR",TR: Planet Cocuk
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/215135.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SINEMA TV YERLI
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38971.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: SINEMA TV AKSIYON
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38972.ts
+#EXTINF:0 tvg-id="MoviemaxTurk.tr" group-title="|TR| SPOR",TR: MOVIESMART TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38973.ts
+#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="|TR| SPOR",TR: MOVIESMART PREMIUM
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38974.ts
+#EXTINF:0 tvg-id="MoviemaxPremier2.tr" group-title="|TR| SPOR",TR: MOVIESMART PREMIUM 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38975.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: MOVIESMART CLASSIC
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38979.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: FX
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38980.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: DIZI SMART PREMIUM
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38981.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38982.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38983.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38984.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38985.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38986.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38987.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 7
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38988.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 8
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38989.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 9
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38990.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: BOX OFFICE 10
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/38991.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",TR: TAY TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/284993.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 12
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298149.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 15
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298150.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 23
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298151.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 26
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298152.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298153.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 33
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298154.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 34
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298155.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 42
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298156.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 56
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298157.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- Kanal 57 TOKAT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298158.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL 68
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298159.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL A ALANYA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298160.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL ARTVIN
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298161.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL AVRUPA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298162.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL B
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298163.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL EGE
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298164.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL FIRAT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298165.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL T
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298166.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KANAL Z
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298167.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KENT TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298168.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KON TV HD
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298169.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- KUDUS TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298170.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- LALEGUL TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298171.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- LIFE TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298172.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- LIFE+
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298173.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- LINE TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298174.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- MARMARA TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298175.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- MC EU TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298176.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- MEDYA HABER
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298177.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- MESAJ TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298178.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- METRO TURK
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298179.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- NATURAL TV AFRIKA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298180.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- OLAYTURK KAYSERI
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298181.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- ON MEDYA HABER
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298182.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- ONCU TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298183.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- PAMUKKALETV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298184.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- REHBERTV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298185.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- ROYAL TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298186.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- RUMELİ TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298187.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- SIVAS BELEDIYESI TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298188.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TBMM TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298189.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TE60 TV TOKAT
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298190.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TEMPO TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298191.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298192.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV 2020
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298193.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV 35
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298194.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV 41
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298195.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV 52
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298196.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV 52 alt2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298197.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV A
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298198.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV AVRUPA
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298199.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV DEN
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298200.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV EM
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298201.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- TV KAYSERI
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298202.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- ULUSAL KANAL
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298203.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- VIYANA TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298204.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- VIZYON 58 TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298205.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- VUSLAT TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298206.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- YENI MALATYASPOR TV
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298207.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 1
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298208.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 2
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298209.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 3
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298210.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 4
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298211.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 5
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298212.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 6
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298213.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 7
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298214.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 8
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298215.ts
+#EXTINF:0 tvg-id="ext" group-title="|TR| SPOR",-TR- EURO LOCA SALON 9
+http://links.iptvlogin.com:80/live/tomaslineexchange/H69dbcR5673Sxz8d53/298216.ts
